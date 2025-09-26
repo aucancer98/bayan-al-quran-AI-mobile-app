@@ -1,0 +1,456 @@
+{
+  "surahNumber": 105,
+  "surahName": "Al-Fil",
+  "description": "The Elephant - The story of the Year of the Elephant",
+  "ayahs": [
+    {
+      "surahNumber": 105,
+      "ayahNumber": 1,
+      "arabicText": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "أَلَمْ",
+          "transliteration": "alam",
+          "root": "ل م",
+          "meaning": "Have you not",
+          "contextualMeaning": "Have you not (rhetorical question)",
+          "position": 1,
+          "relatedWords": ["لم", "لما", "لمن"],
+          "partOfSpeech": "interrogative particle + negation",
+          "grammar": "interrogative + negation of past tense",
+          "morphology": "أ + لم",
+          "frequency": "High - rhetorical question"
+        },
+        {
+          "arabic": "تَرَ",
+          "transliteration": "tara",
+          "root": "ر أ ي",
+          "meaning": "see",
+          "contextualMeaning": "see, observe",
+          "position": 2,
+          "relatedWords": ["رأى", "رؤية", "مرئي"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, second person, masculine, singular",
+          "morphology": "ترى",
+          "frequency": "High - seeing and observing"
+        },
+        {
+          "arabic": "كَيْفَ",
+          "transliteration": "kayfa",
+          "root": "ك ي ف",
+          "meaning": "how",
+          "contextualMeaning": "how, in what way",
+          "position": 3,
+          "relatedWords": ["كيف", "كيفية", "مكيف"],
+          "partOfSpeech": "interrogative particle",
+          "grammar": "interrogative",
+          "morphology": "كيف",
+          "frequency": "High - how, in what manner"
+        },
+        {
+          "arabic": "فَعَلَ",
+          "transliteration": "fa'ala",
+          "root": "ف ع ل",
+          "meaning": "He did",
+          "contextualMeaning": "He did, He acted",
+          "position": 4,
+          "relatedWords": ["فعل", "فاعل", "مفعول"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, singular",
+          "morphology": "فعل",
+          "frequency": "Very High - common verb of action"
+        },
+        {
+          "arabic": "رَبُّكَ",
+          "transliteration": "Rabbuka",
+          "root": "ر ب ب",
+          "meaning": "your Lord",
+          "contextualMeaning": "your Lord (Allah)",
+          "position": 5,
+          "relatedWords": ["ربوبية", "مربوب", "تربية"],
+          "partOfSpeech": "noun + pronoun",
+          "grammar": "nominative, second person, masculine, singular",
+          "morphology": "رب + ك",
+          "frequency": "Very High - one of Allah's primary attributes"
+        },
+        {
+          "arabic": "بِأَصْحَابِ",
+          "transliteration": "bi-as-habi",
+          "root": "ص ح ب",
+          "meaning": "with the companions",
+          "contextualMeaning": "with the companions, with the people",
+          "position": 6,
+          "relatedWords": ["صحب", "صاحب", "صحبة"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ب + أصحاب",
+          "frequency": "High - companions and people"
+        },
+        {
+          "arabic": "الْفِيلِ",
+          "transliteration": "al-feel",
+          "root": "ف ي ل",
+          "meaning": "the elephant",
+          "contextualMeaning": "the elephant",
+          "position": 7,
+          "relatedWords": ["فيل", "فيلة", "أفيال"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite",
+          "morphology": "ال + فيل",
+          "frequency": "Low - specific to this historical event"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Seest thou not how thy Lord dealt with the Companions of the Elephant?",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "ART THOU NOT aware of how thy Sustainer dealt with the army of the elephant?",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 105,
+      "ayahNumber": 2,
+      "arabicText": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "أَلَمْ",
+          "transliteration": "alam",
+          "root": "ل م",
+          "meaning": "Did He not",
+          "contextualMeaning": "Did He not (rhetorical question)",
+          "position": 1,
+          "relatedWords": ["لم", "لما", "لمن"],
+          "partOfSpeech": "interrogative particle + negation",
+          "grammar": "interrogative + negation of past tense",
+          "morphology": "أ + لم",
+          "frequency": "High - rhetorical question"
+        },
+        {
+          "arabic": "يَجْعَلْ",
+          "transliteration": "yaj'al",
+          "root": "ج ع ل",
+          "meaning": "make",
+          "contextualMeaning": "make, cause to be",
+          "position": 2,
+          "relatedWords": ["جعل", "مجعول", "تجعيل"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person, masculine, singular",
+          "morphology": "ي + جعل",
+          "frequency": "Very High - common verb of making"
+        },
+        {
+          "arabic": "كَيْدَهُمْ",
+          "transliteration": "kaydahum",
+          "root": "ك ي د",
+          "meaning": "their plot",
+          "contextualMeaning": "their plot, their scheme",
+          "position": 3,
+          "relatedWords": ["كيد", "ماكر", "مكيدة"],
+          "partOfSpeech": "noun + pronoun",
+          "grammar": "accusative, third person, masculine, plural",
+          "morphology": "كيد + هم",
+          "frequency": "Medium - plotting and scheming"
+        },
+        {
+          "arabic": "فِي",
+          "transliteration": "fee",
+          "root": "ف ي ي",
+          "meaning": "in",
+          "contextualMeaning": "in, into",
+          "position": 4,
+          "relatedWords": ["في", "داخل", "ضمن"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "في",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "تَضْلِيلٍ",
+          "transliteration": "tadleel",
+          "root": "ض ل ل",
+          "meaning": "error",
+          "contextualMeaning": "error, failure, confusion",
+          "position": 5,
+          "relatedWords": ["ضلال", "ضال", "تضليل"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "تضليل",
+          "frequency": "Medium - error and failure"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Did He not make their plan into misguidance?",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Did He not make their treacherous plan go astray?",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Did He not utterly confound their artful planning?",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 105,
+      "ayahNumber": 3,
+      "arabicText": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَأَرْسَلَ",
+          "transliteration": "wa arsala",
+          "root": "ر س ل",
+          "meaning": "and He sent",
+          "contextualMeaning": "and He sent",
+          "position": 1,
+          "relatedWords": ["رسل", "مرسل", "إرسال"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + past tense, third person, masculine, singular",
+          "morphology": "و + أرسل",
+          "frequency": "High - sending and dispatching"
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "transliteration": "alayhim",
+          "root": "ع ل ي",
+          "meaning": "upon them",
+          "contextualMeaning": "upon them",
+          "position": 2,
+          "relatedWords": ["على", "عليهم", "عليك"],
+          "partOfSpeech": "preposition + pronoun",
+          "grammar": "genitive, third person, masculine, plural",
+          "morphology": "على + هم",
+          "frequency": "Very High - common prepositional phrase"
+        },
+        {
+          "arabic": "طَيْرًا",
+          "transliteration": "tayran",
+          "root": "ط ي ر",
+          "meaning": "birds",
+          "contextualMeaning": "birds, flying creatures",
+          "position": 3,
+          "relatedWords": ["طير", "طائر", "طيور"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, indefinite, plural",
+          "morphology": "طير",
+          "frequency": "Medium - birds and flying creatures"
+        },
+        {
+          "arabic": "أَبَابِيلَ",
+          "transliteration": "ababeel",
+          "root": "أ ب ل",
+          "meaning": "in flocks",
+          "contextualMeaning": "in flocks, in groups",
+          "position": 4,
+          "relatedWords": ["أبابيل", "أبل", "إبل"],
+          "partOfSpeech": "adjective",
+          "grammar": "accusative, indefinite, plural",
+          "morphology": "أبابيل",
+          "frequency": "Unique - appears only in this context"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "And He sent against them birds in flocks,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "And He sent against them Flights of Birds,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and let loose upon them great swarms of flying creatures",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 105,
+      "ayahNumber": 4,
+      "arabicText": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "تَرْمِيهِم",
+          "transliteration": "tarmihim",
+          "root": "ر م ي",
+          "meaning": "striking them",
+          "contextualMeaning": "striking them, pelting them",
+          "position": 1,
+          "relatedWords": ["رمى", "رامي", "مرمي"],
+          "partOfSpeech": "verb + pronoun",
+          "grammar": "present tense, third person, feminine, singular, third person, masculine, plural object",
+          "morphology": "ترمي + هم",
+          "frequency": "Medium - throwing and striking"
+        },
+        {
+          "arabic": "بِحِجَارَةٍ",
+          "transliteration": "bi-hijaratin",
+          "root": "ح ج ر",
+          "meaning": "with stones",
+          "contextualMeaning": "with stones, with pebbles",
+          "position": 2,
+          "relatedWords": ["حجر", "حجارة", "محجر"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, indefinite, plural",
+          "morphology": "ب + حجارة",
+          "frequency": "Medium - stones and pebbles"
+        },
+        {
+          "arabic": "مِّن",
+          "transliteration": "min",
+          "root": "م ن",
+          "meaning": "from",
+          "contextualMeaning": "from",
+          "position": 3,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "من",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "سِجِّيلٍ",
+          "transliteration": "sijjeel",
+          "root": "س ج ل",
+          "meaning": "baked clay",
+          "contextualMeaning": "baked clay, hard clay",
+          "position": 4,
+          "relatedWords": ["سجيل", "سجل", "مسجل"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "سجيل",
+          "frequency": "Low - specific type of clay"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Striking them with stones of hard clay,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Striking them with stones of baked clay.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "which smote them with stone-hard blows of chastisement pre-ordained,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 105,
+      "ayahNumber": 5,
+      "arabicText": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "فَجَعَلَهُمْ",
+          "transliteration": "fa ja'alahum",
+          "root": "ج ع ل",
+          "meaning": "and He made them",
+          "contextualMeaning": "and He made them",
+          "position": 1,
+          "relatedWords": ["جعل", "مجعول", "تجعيل"],
+          "partOfSpeech": "conjunction + verb + pronoun",
+          "grammar": "coordinating + past tense, third person, masculine, singular, third person, masculine, plural object",
+          "morphology": "ف + جعل + هم",
+          "frequency": "Very High - common verb of making"
+        },
+        {
+          "arabic": "كَعَصْفٍ",
+          "transliteration": "ka-asfin",
+          "root": "ع ص ف",
+          "meaning": "like straw",
+          "contextualMeaning": "like straw, like chaff",
+          "position": 2,
+          "relatedWords": ["عصف", "عصافة", "معصف"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "ك + عصف",
+          "frequency": "Low - straw and chaff"
+        },
+        {
+          "arabic": "مَّأْكُولٍ",
+          "transliteration": "ma'kool",
+          "root": "أ ك ل",
+          "meaning": "eaten",
+          "contextualMeaning": "eaten, consumed",
+          "position": 3,
+          "relatedWords": ["أكل", "مأكول", "أكلة"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive, indefinite",
+          "morphology": "مأكول",
+          "frequency": "Medium - eaten and consumed"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "And He made them like eaten straw.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and caused them to become like a field of grain that has been eaten down to stubble.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

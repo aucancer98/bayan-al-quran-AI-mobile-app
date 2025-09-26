@@ -1,0 +1,37 @@
+# Requirements for training custom Islamic AI model
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+tokenizers>=0.13.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Text processing
+nltk>=3.8.0
+spacy>=3.6.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+
+# Model optimization
+tensorflow>=2.13.0
+tflite>=0.0.1
+
+# Utilities
+tqdm>=4.65.0
+wandb>=0.15.0
+tensorboard>=2.13.0
+
+# Development
+jupyter>=1.0.0
+ipykernel>=6.25.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Arabic NLP specific
+camel-tools>=1.5.0
+pyarabic>=0.6.15

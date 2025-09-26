@@ -1,0 +1,258 @@
+=== Training Text 1 ===
+<ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <translation>In the name of Allah, the Entirely Merciful, the Especially Merciful.</translation> <translation>In the name of Allah, Most Gracious, Most Merciful.</translation> <translation>In the Name of Allah—the Most Compassionate, Most Merciful.</translation> <word_analysis>بِسْمِ:In the name of|اللَّهِ:Allah|الرَّحْمَٰنِ:The Most Gracious|الرَّحِيمِ:The Most Merciful</word_analysis> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 2 ===
+<question>What does this ayah mean: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ...</question> <ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <translation>In the name of Allah, the Entirely Merciful, the Especially Merciful.</translation> <translation>In the name of Allah, Most Gracious, Most Merciful.</translation> <translation>In the Name of Allah—the Most Compassionate, Most Merciful.</translation> <word_analysis>بِسْمِ:In the name of|اللَّهِ:Allah|الرَّحْمَٰنِ:The Most Gracious|الرَّحِيمِ:The Most Merciful</word_analysis> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 3 ===
+<question>Analyze the words in this text</question> <ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <translation>In the name of Allah, the Entirely Merciful, the Especially Merciful.</translation> <translation>In the name of Allah, Most Gracious, Most Merciful.</translation> <translation>In the Name of Allah—the Most Compassionate, Most Merciful.</translation> <word_analysis>بِسْمِ:In the name of|اللَّهِ:Allah|الرَّحْمَٰنِ:The Most Gracious|الرَّحِيمِ:The Most Merciful</word_analysis> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 4 ===
+<ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <translation>[All] praise is [due] to Allah, Lord of the worlds.</translation> <translation>Praise be to Allah, the Cherisher and Sustainer of the worlds.</translation> <translation>All praise is for Allah—Lord of all worlds.</translation> <word_analysis>الْحَمْدُ:All praise|لِلَّهِ:to Allah|رَبِّ:Lord|الْعَالَمِينَ:the worlds</word_analysis> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 5 ===
+<question>What does this ayah mean: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...</question> <ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <translation>[All] praise is [due] to Allah, Lord of the worlds.</translation> <translation>Praise be to Allah, the Cherisher and Sustainer of the worlds.</translation> <translation>All praise is for Allah—Lord of all worlds.</translation> <word_analysis>الْحَمْدُ:All praise|لِلَّهِ:to Allah|رَبِّ:Lord|الْعَالَمِينَ:the worlds</word_analysis> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 6 ===
+<question>Analyze the words in this text</question> <ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <translation>[All] praise is [due] to Allah, Lord of the worlds.</translation> <translation>Praise be to Allah, the Cherisher and Sustainer of the worlds.</translation> <translation>All praise is for Allah—Lord of all worlds.</translation> <word_analysis>الْحَمْدُ:All praise|لِلَّهِ:to Allah|رَبِّ:Lord|الْعَالَمِينَ:the worlds</word_analysis> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 7 ===
+<ayah>الرَّحْمَٰنِ الرَّحِيمِ</ayah> <translation>The Entirely Merciful, the Especially Merciful.</translation> <translation>Most Gracious, Most Merciful.</translation> <translation>The Most Compassionate, Most Merciful.</translation> <word_analysis>الرَّحْمَٰنِ:The Most Gracious|الرَّحِيمِ:The Most Merciful</word_analysis> <context>Surah 1:3 - Al-Fatihah</context>
+
+=== Training Text 8 ===
+<question>What does this ayah mean: الرَّحْمَٰنِ الرَّحِيمِ...</question> <ayah>الرَّحْمَٰنِ الرَّحِيمِ</ayah> <translation>The Entirely Merciful, the Especially Merciful.</translation> <translation>Most Gracious, Most Merciful.</translation> <translation>The Most Compassionate, Most Merciful.</translation> <word_analysis>الرَّحْمَٰنِ:The Most Gracious|الرَّحِيمِ:The Most Merciful</word_analysis> <context>Surah 1:3 - Al-Fatihah</context>
+
+=== Training Text 9 ===
+<question>Analyze the words in this text</question> <ayah>الرَّحْمَٰنِ الرَّحِيمِ</ayah> <translation>The Entirely Merciful, the Especially Merciful.</translation> <translation>Most Gracious, Most Merciful.</translation> <translation>The Most Compassionate, Most Merciful.</translation> <word_analysis>الرَّحْمَٰنِ:The Most Gracious|الرَّحِيمِ:The Most Merciful</word_analysis> <context>Surah 1:3 - Al-Fatihah</context>
+
+=== Training Text 10 ===
+<ayah>مَالِكِ يَوْمِ الدِّينِ</ayah> <translation>Sovereign of the Day of Recompense.</translation> <translation>Master of the Day of Judgment.</translation> <translation>Master of the Day of Judgment.</translation> <word_analysis>مَالِكِ:Master|يَوْمِ:day|الدِّينِ:religion/judgment</word_analysis> <context>Surah 1:4 - Al-Fatihah</context>
+
+=== Training Text 11 ===
+<question>What does this ayah mean: مَالِكِ يَوْمِ الدِّينِ...</question> <ayah>مَالِكِ يَوْمِ الدِّينِ</ayah> <translation>Sovereign of the Day of Recompense.</translation> <translation>Master of the Day of Judgment.</translation> <translation>Master of the Day of Judgment.</translation> <word_analysis>مَالِكِ:Master|يَوْمِ:day|الدِّينِ:religion/judgment</word_analysis> <context>Surah 1:4 - Al-Fatihah</context>
+
+=== Training Text 12 ===
+<question>Analyze the words in this text</question> <ayah>مَالِكِ يَوْمِ الدِّينِ</ayah> <translation>Sovereign of the Day of Recompense.</translation> <translation>Master of the Day of Judgment.</translation> <translation>Master of the Day of Judgment.</translation> <word_analysis>مَالِكِ:Master|يَوْمِ:day|الدِّينِ:religion/judgment</word_analysis> <context>Surah 1:4 - Al-Fatihah</context>
+
+=== Training Text 13 ===
+<ayah>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</ayah> <translation>It is You we worship and You we ask for help.</translation> <translation>Thee do we worship, and Thine aid we seek.</translation> <translation>You ˹alone˺ we worship and You ˹alone˺ we ask for help.</translation> <word_analysis>إِيَّاكَ:You alone|نَعْبُدُ:we worship|وَإِيَّاكَ:and You alone|نَسْتَعِينُ:we ask for help</word_analysis> <context>Surah 1:5 - Al-Fatihah</context>
+
+=== Training Text 14 ===
+<question>What does this ayah mean: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ...</question> <ayah>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</ayah> <translation>It is You we worship and You we ask for help.</translation> <translation>Thee do we worship, and Thine aid we seek.</translation> <translation>You ˹alone˺ we worship and You ˹alone˺ we ask for help.</translation> <word_analysis>إِيَّاكَ:You alone|نَعْبُدُ:we worship|وَإِيَّاكَ:and You alone|نَسْتَعِينُ:we ask for help</word_analysis> <context>Surah 1:5 - Al-Fatihah</context>
+
+=== Training Text 15 ===
+<question>Analyze the words in this text</question> <ayah>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</ayah> <translation>It is You we worship and You we ask for help.</translation> <translation>Thee do we worship, and Thine aid we seek.</translation> <translation>You ˹alone˺ we worship and You ˹alone˺ we ask for help.</translation> <word_analysis>إِيَّاكَ:You alone|نَعْبُدُ:we worship|وَإِيَّاكَ:and You alone|نَسْتَعِينُ:we ask for help</word_analysis> <context>Surah 1:5 - Al-Fatihah</context>
+
+=== Training Text 16 ===
+<ayah>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</ayah> <translation>Guide us to the straight path.</translation> <translation>Show us the straight way.</translation> <translation>Guide us to the Straight Path.</translation> <word_analysis>اهْدِنَا:guide us|الصِّرَاطَ:the path|الْمُسْتَقِيمَ:straight</word_analysis> <context>Surah 1:6 - Al-Fatihah</context>
+
+=== Training Text 17 ===
+<question>What does this ayah mean: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ...</question> <ayah>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</ayah> <translation>Guide us to the straight path.</translation> <translation>Show us the straight way.</translation> <translation>Guide us to the Straight Path.</translation> <word_analysis>اهْدِنَا:guide us|الصِّرَاطَ:the path|الْمُسْتَقِيمَ:straight</word_analysis> <context>Surah 1:6 - Al-Fatihah</context>
+
+=== Training Text 18 ===
+<question>Analyze the words in this text</question> <ayah>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</ayah> <translation>Guide us to the straight path.</translation> <translation>Show us the straight way.</translation> <translation>Guide us to the Straight Path.</translation> <word_analysis>اهْدِنَا:guide us|الصِّرَاطَ:the path|الْمُسْتَقِيمَ:straight</word_analysis> <context>Surah 1:6 - Al-Fatihah</context>
+
+=== Training Text 19 ===
+<ayah>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</ayah> <translation>The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.</translation> <translation>The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.</translation> <translation>The Path of those You have blessed—not those You are displeased with, or those who are astray.</translation> <word_analysis>صِرَاطَ:path|الَّذِينَ:those who|أَنْعَمْتَ:You have blessed|عَلَيْهِمْ:upon them|غَيْرِ:not|الْمَغْضُوبِ:those who have earned anger|عَلَيْهِمْ:upon them|وَلَا:and not|الضَّالِّينَ:those who have gone astray</word_analysis> <context>Surah 1:7 - Al-Fatihah</context>
+
+=== Training Text 20 ===
+<question>What does this ayah mean: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ال...</question> <ayah>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</ayah> <translation>The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.</translation> <translation>The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.</translation> <translation>The Path of those You have blessed—not those You are displeased with, or those who are astray.</translation> <word_analysis>صِرَاطَ:path|الَّذِينَ:those who|أَنْعَمْتَ:You have blessed|عَلَيْهِمْ:upon them|غَيْرِ:not|الْمَغْضُوبِ:those who have earned anger|عَلَيْهِمْ:upon them|وَلَا:and not|الضَّالِّينَ:those who have gone astray</word_analysis> <context>Surah 1:7 - Al-Fatihah</context>
+
+=== Training Text 21 ===
+<question>Analyze the words in this text</question> <ayah>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</ayah> <translation>The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.</translation> <translation>The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.</translation> <translation>The Path of those You have blessed—not those You are displeased with, or those who are astray.</translation> <word_analysis>صِرَاطَ:path|الَّذِينَ:those who|أَنْعَمْتَ:You have blessed|عَلَيْهِمْ:upon them|غَيْرِ:not|الْمَغْضُوبِ:those who have earned anger|عَلَيْهِمْ:upon them|وَلَا:and not|الضَّالِّينَ:those who have gone astray</word_analysis> <context>Surah 1:7 - Al-Fatihah</context>
+
+=== Training Text 22 ===
+<ayah>الم</ayah> <translation>Alif, Lam, Mim.</translation> <translation>Alif, Lam, Mim.</translation> <translation>Alif-Lãm-Mĩm.</translation> <word_analysis>الم:Alif Lam Mim (Mysterious letters)</word_analysis> <context>Surah 2:1 - Al-Baqarah</context>
+
+=== Training Text 23 ===
+<question>Analyze the words in this text</question> <ayah>الم</ayah> <translation>Alif, Lam, Mim.</translation> <translation>Alif, Lam, Mim.</translation> <translation>Alif-Lãm-Mĩm.</translation> <word_analysis>الم:Alif Lam Mim (Mysterious letters)</word_analysis> <context>Surah 2:1 - Al-Baqarah</context>
+
+=== Training Text 24 ===
+<ayah>ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ</ayah> <translation>This is the Book about which there is no doubt, a guidance for those conscious of Allah.</translation> <translation>This is the Book; in it is guidance sure, without doubt, to those who fear Allah.</translation> <translation>This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺.</translation> <word_analysis>ذَٰلِكَ:That|الْكِتَابُ:the book|لَا:no|رَيْبَ:doubt|فِيهِ:in it|هُدًى:guidance|لِّلْمُتَّقِينَ:for the God-conscious</word_analysis> <context>Surah 2:2 - Al-Baqarah</context>
+
+=== Training Text 25 ===
+<question>What does this ayah mean: ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّل...</question> <ayah>ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ</ayah> <translation>This is the Book about which there is no doubt, a guidance for those conscious of Allah.</translation> <translation>This is the Book; in it is guidance sure, without doubt, to those who fear Allah.</translation> <translation>This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺.</translation> <word_analysis>ذَٰلِكَ:That|الْكِتَابُ:the book|لَا:no|رَيْبَ:doubt|فِيهِ:in it|هُدًى:guidance|لِّلْمُتَّقِينَ:for the God-conscious</word_analysis> <context>Surah 2:2 - Al-Baqarah</context>
+
+=== Training Text 26 ===
+<question>Analyze the words in this text</question> <ayah>ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ</ayah> <translation>This is the Book about which there is no doubt, a guidance for those conscious of Allah.</translation> <translation>This is the Book; in it is guidance sure, without doubt, to those who fear Allah.</translation> <translation>This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺.</translation> <word_analysis>ذَٰلِكَ:That|الْكِتَابُ:the book|لَا:no|رَيْبَ:doubt|فِيهِ:in it|هُدًى:guidance|لِّلْمُتَّقِينَ:for the God-conscious</word_analysis> <context>Surah 2:2 - Al-Baqarah</context>
+
+=== Training Text 27 ===
+<ayah>وَالْعَصْرِ</ayah> <translation>By time,</translation> <translation>By (the Token of) Time (through the ages),</translation> <word_analysis>وَالْعَصْرِ:By the time</word_analysis> <context>Surah 103:1 - Al-Asr</context>
+
+=== Training Text 28 ===
+<question>Analyze the words in this text</question> <ayah>وَالْعَصْرِ</ayah> <translation>By time,</translation> <translation>By (the Token of) Time (through the ages),</translation> <word_analysis>وَالْعَصْرِ:By the time</word_analysis> <context>Surah 103:1 - Al-Asr</context>
+
+=== Training Text 29 ===
+<ayah>إِنَّ الْإِنسَانَ لَفِي خُسْرٍ</ayah> <translation>Indeed, mankind is in loss,</translation> <translation>Verily Man is in loss,</translation> <word_analysis>إِنَّ:Indeed|الْإِنسَانَ:man|لَفِي:is indeed in|خُسْرٍ:loss</word_analysis> <context>Surah 103:2 - Al-Asr</context>
+
+=== Training Text 30 ===
+<question>What does this ayah mean: إِنَّ الْإِنسَانَ لَفِي خُسْرٍ...</question> <ayah>إِنَّ الْإِنسَانَ لَفِي خُسْرٍ</ayah> <translation>Indeed, mankind is in loss,</translation> <translation>Verily Man is in loss,</translation> <word_analysis>إِنَّ:Indeed|الْإِنسَانَ:man|لَفِي:is indeed in|خُسْرٍ:loss</word_analysis> <context>Surah 103:2 - Al-Asr</context>
+
+=== Training Text 31 ===
+<question>Analyze the words in this text</question> <ayah>إِنَّ الْإِنسَانَ لَفِي خُسْرٍ</ayah> <translation>Indeed, mankind is in loss,</translation> <translation>Verily Man is in loss,</translation> <word_analysis>إِنَّ:Indeed|الْإِنسَانَ:man|لَفِي:is indeed in|خُسْرٍ:loss</word_analysis> <context>Surah 103:2 - Al-Asr</context>
+
+=== Training Text 32 ===
+<ayah>إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ</ayah> <translation>Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.</translation> <translation>Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.</translation> <word_analysis>إِلَّا:except|الَّذِينَ:those who|آمَنُوا:believed|وَعَمِلُوا:and did|الصَّالِحَاتِ:righteous deeds|وَتَوَاصَوْا:and enjoined|بِالْحَقِّ:with truth|وَتَوَاصَوْا:and enjoined|بِالصَّبْرِ:with patience</word_analysis> <context>Surah 103:3 - Al-Asr</context>
+
+=== Training Text 33 ===
+<question>What does this ayah mean: إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَات...</question> <ayah>إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ</ayah> <translation>Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.</translation> <translation>Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.</translation> <word_analysis>إِلَّا:except|الَّذِينَ:those who|آمَنُوا:believed|وَعَمِلُوا:and did|الصَّالِحَاتِ:righteous deeds|وَتَوَاصَوْا:and enjoined|بِالْحَقِّ:with truth|وَتَوَاصَوْا:and enjoined|بِالصَّبْرِ:with patience</word_analysis> <context>Surah 103:3 - Al-Asr</context>
+
+=== Training Text 34 ===
+<question>Analyze the words in this text</question> <ayah>إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ</ayah> <translation>Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.</translation> <translation>Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.</translation> <word_analysis>إِلَّا:except|الَّذِينَ:those who|آمَنُوا:believed|وَعَمِلُوا:and did|الصَّالِحَاتِ:righteous deeds|وَتَوَاصَوْا:and enjoined|بِالْحَقِّ:with truth|وَتَوَاصَوْا:and enjoined|بِالصَّبْرِ:with patience</word_analysis> <context>Surah 103:3 - Al-Asr</context>
+
+=== Training Text 35 ===
+<ayah>قُلْ هُوَ اللَّهُ أَحَدٌ</ayah> <translation>Say, "He is Allah, [who is] One,</translation> <translation>Say: He is Allah, the One and Only;</translation> <word_analysis>قُلْ:Say|هُوَ:He|اللَّهُ:Allah|أَحَدٌ:One</word_analysis> <context>Surah 112:1 - Al-Ikhlas</context>
+
+=== Training Text 36 ===
+<question>What does this ayah mean: قُلْ هُوَ اللَّهُ أَحَدٌ...</question> <ayah>قُلْ هُوَ اللَّهُ أَحَدٌ</ayah> <translation>Say, "He is Allah, [who is] One,</translation> <translation>Say: He is Allah, the One and Only;</translation> <word_analysis>قُلْ:Say|هُوَ:He|اللَّهُ:Allah|أَحَدٌ:One</word_analysis> <context>Surah 112:1 - Al-Ikhlas</context>
+
+=== Training Text 37 ===
+<question>Analyze the words in this text</question> <ayah>قُلْ هُوَ اللَّهُ أَحَدٌ</ayah> <translation>Say, "He is Allah, [who is] One,</translation> <translation>Say: He is Allah, the One and Only;</translation> <word_analysis>قُلْ:Say|هُوَ:He|اللَّهُ:Allah|أَحَدٌ:One</word_analysis> <context>Surah 112:1 - Al-Ikhlas</context>
+
+=== Training Text 38 ===
+<ayah>اللَّهُ الصَّمَدُ</ayah> <translation>Allah, the Eternal Refuge.</translation> <translation>Allah, the Eternal, Absolute;</translation> <word_analysis>اللَّهُ:Allah|الصَّمَدُ:the Eternal</word_analysis> <context>Surah 112:2 - Al-Ikhlas</context>
+
+=== Training Text 39 ===
+<question>Analyze the words in this text</question> <ayah>اللَّهُ الصَّمَدُ</ayah> <translation>Allah, the Eternal Refuge.</translation> <translation>Allah, the Eternal, Absolute;</translation> <word_analysis>اللَّهُ:Allah|الصَّمَدُ:the Eternal</word_analysis> <context>Surah 112:2 - Al-Ikhlas</context>
+
+=== Training Text 40 ===
+<ayah>لَمْ يَلِدْ وَلَمْ يُولَدْ</ayah> <translation>He neither begets nor is born,</translation> <translation>He begetteth not, nor is He begotten;</translation> <word_analysis>لَمْ:not|يَلِدْ:He begets|وَلَمْ:and not|يُولَدْ:He is begotten</word_analysis> <context>Surah 112:3 - Al-Ikhlas</context>
+
+=== Training Text 41 ===
+<question>What does this ayah mean: لَمْ يَلِدْ وَلَمْ يُولَدْ...</question> <ayah>لَمْ يَلِدْ وَلَمْ يُولَدْ</ayah> <translation>He neither begets nor is born,</translation> <translation>He begetteth not, nor is He begotten;</translation> <word_analysis>لَمْ:not|يَلِدْ:He begets|وَلَمْ:and not|يُولَدْ:He is begotten</word_analysis> <context>Surah 112:3 - Al-Ikhlas</context>
+
+=== Training Text 42 ===
+<question>Analyze the words in this text</question> <ayah>لَمْ يَلِدْ وَلَمْ يُولَدْ</ayah> <translation>He neither begets nor is born,</translation> <translation>He begetteth not, nor is He begotten;</translation> <word_analysis>لَمْ:not|يَلِدْ:He begets|وَلَمْ:and not|يُولَدْ:He is begotten</word_analysis> <context>Surah 112:3 - Al-Ikhlas</context>
+
+=== Training Text 43 ===
+<ayah>وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ</ayah> <translation>Nor is there to Him any equivalent."</translation> <translation>And there is none like unto Him."</translation> <word_analysis>وَلَمْ:and not|يَكُن:He is|لَّهُ:for Him|كُفُوًا:equal|أَحَدٌ:anyone</word_analysis> <context>Surah 112:4 - Al-Ikhlas</context>
+
+=== Training Text 44 ===
+<question>What does this ayah mean: وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ...</question> <ayah>وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ</ayah> <translation>Nor is there to Him any equivalent."</translation> <translation>And there is none like unto Him."</translation> <word_analysis>وَلَمْ:and not|يَكُن:He is|لَّهُ:for Him|كُفُوًا:equal|أَحَدٌ:anyone</word_analysis> <context>Surah 112:4 - Al-Ikhlas</context>
+
+=== Training Text 45 ===
+<question>Analyze the words in this text</question> <ayah>وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ</ayah> <translation>Nor is there to Him any equivalent."</translation> <translation>And there is none like unto Him."</translation> <word_analysis>وَلَمْ:and not|يَكُن:He is|لَّهُ:for Him|كُفُوًا:equal|أَحَدٌ:anyone</word_analysis> <context>Surah 112:4 - Al-Ikhlas</context>
+
+=== Training Text 46 ===
+<ayah>أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ</ayah> <translation>Have you not considered, [O Muhammad ﷺ], how your Lord dealt with the companions of the elephant?</translation> <translation>Seest thou not how thy Lord dealt with the Companions of the Elephant?</translation> <word_analysis>أَلَمْ:Have you not|تَرَ:see|كَيْفَ:how|فَعَلَ:He did|رَبُّكَ:your Lord|بِأَصْحَابِ:with the companions|الْفِيلِ:the elephant</word_analysis> <context>Surah 105:1 - Al-Fil</context>
+
+=== Training Text 47 ===
+<question>What does this ayah mean: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ ال...</question> <ayah>أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ</ayah> <translation>Have you not considered, [O Muhammad ﷺ], how your Lord dealt with the companions of the elephant?</translation> <translation>Seest thou not how thy Lord dealt with the Companions of the Elephant?</translation> <word_analysis>أَلَمْ:Have you not|تَرَ:see|كَيْفَ:how|فَعَلَ:He did|رَبُّكَ:your Lord|بِأَصْحَابِ:with the companions|الْفِيلِ:the elephant</word_analysis> <context>Surah 105:1 - Al-Fil</context>
+
+=== Training Text 48 ===
+<question>Analyze the words in this text</question> <ayah>أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ</ayah> <translation>Have you not considered, [O Muhammad ﷺ], how your Lord dealt with the companions of the elephant?</translation> <translation>Seest thou not how thy Lord dealt with the Companions of the Elephant?</translation> <word_analysis>أَلَمْ:Have you not|تَرَ:see|كَيْفَ:how|فَعَلَ:He did|رَبُّكَ:your Lord|بِأَصْحَابِ:with the companions|الْفِيلِ:the elephant</word_analysis> <context>Surah 105:1 - Al-Fil</context>
+
+=== Training Text 49 ===
+<hadith>كَانَ أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لَا يَرَى رُؤْيَا إِلَّا جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ</hadith> <translation>The commencement of the Divine Inspiration to Allah's Messenger was in the form of good dreams which came true like bright daylight, and then the love of seclusion was bestowed upon him.</translation> <narrator>Aisha</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 50 ===
+<question>Explain this hadith: كَانَ أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَ...</question> <hadith>كَانَ أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لَا يَرَى رُؤْيَا إِلَّا جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ</hadith> <translation>The commencement of the Divine Inspiration to Allah's Messenger was in the form of good dreams which came true like bright daylight, and then the love of seclusion was bestowed upon him.</translation> <narrator>Aisha</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 51 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "الإِيمَانُ بِضْعٌ وَسَبْعُونَ شُعْبَةً، فَأَفْضَلُهَا قَوْلُ لَا إِلَهَ إِلَّا اللَّهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Faith has over seventy branches, and the most excellent of them is the declaration that there is no god but Allah, and the lowest of them is the removal of what is injurious from the path, and modesty is a branch of faith.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 9</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 52 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "الإِيمَانُ بِضْعٌ وَسَبْعُونَ شُعْبَةً، فَأَفْضَلُهَا قَوْلُ لَا إِلَهَ إِلَّا اللَّهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Faith has over seventy branches, and the most excellent of them is the declaration that there is no god but Allah, and the lowest of them is the removal of what is injurious from the path, and modesty is a branch of faith.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 9</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 53 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Seeking knowledge is obligatory upon every Muslim.'</translation> <narrator>Anas ibn Malik</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 54 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Seeking knowledge is obligatory upon every Muslim.'</translation> <narrator>Anas ibn Malik</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 55 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Islam is built upon five pillars: testifying that there is no god but Allah and that Muhammad ﷺ is the Messenger of Allah, establishing prayer, giving zakah, performing Hajj, and fasting in Ramadan.'</translation> <narrator>Ibn Abbas</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 8</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 56 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Islam is built upon five pillars: testifying that there is no god but Allah and that Muhammad ﷺ is the Messenger of Allah, establishing prayer, giving zakah, performing Hajj, and fasting in Ramadan.'</translation> <narrator>Ibn Abbas</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 8</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 57 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'None of you will have faith until he loves for his brother what he loves for himself.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 13</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 58 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'None of you will have faith until he loves for his brother what he loves for himself.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 13</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 59 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "أَرَأَيْتُمْ لَوْ أَنَّ نَهَرًا بِبَابِ أَحَدِكُمْ يَغْتَسِلُ فِيهِ كُلَّ يَوْمٍ خَمْسَ مَرَّاتٍ، هَلْ يَبْقَى مِنْ دَرَنِهِ شَيْءٌ؟" قَالُوا: لَا يَبْقَى مِنْ دَرَنِهِ شَيْءٌ. قَالَ: "فَذَلِكَ مَثَلُ الصَّلَوَاتِ الْخَمْسِ، يَمْحُو اللَّهُ بِهِنَّ الْخَطَايَا"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'What do you think if there was a river at the door of one of you and he bathed in it five times a day, would there remain any dirt on him?' They said: 'No dirt would remain on him.' He said: 'That is the parable of the five prayers. Allah wipes away sins with them.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 528</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 60 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "أَرَأَيْتُمْ لَوْ أَنَّ نَهَرًا بِبَابِ أَحَدِكُمْ يَغْتَسِلُ فِيهِ كُلَّ يَوْمٍ خَمْسَ مَرَّاتٍ، هَلْ يَبْقَى مِنْ دَرَنِهِ شَيْءٌ؟" قَالُوا: لَا يَبْقَى مِنْ دَرَنِهِ شَيْءٌ. قَالَ: "فَذَلِكَ مَثَلُ الصَّلَوَاتِ الْخَمْسِ، يَمْحُو اللَّهُ بِهِنَّ الْخَطَايَا"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'What do you think if there was a river at the door of one of you and he bathed in it five times a day, would there remain any dirt on him?' They said: 'No dirt would remain on him.' He said: 'That is the parable of the five prayers. Allah wipes away sins with them.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 528</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 61 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever fasts Ramadan out of faith and in the hope of reward, his previous sins will be forgiven.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 38</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 62 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever fasts Ramadan out of faith and in the hope of reward, his previous sins will be forgiven.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 38</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 63 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ آتَى زَكَاةَ مَالِهِ طَاهِرَةً مِنْ قَلْبِهِ، فَلَا يَضُرُّهُ مَا أَخَذَ مِنْهُ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever gives zakah on his wealth with a pure heart, it will not harm him what is taken from him.'</translation> <narrator>Ibn Abbas</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1405</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 64 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ آتَى زَكَاةَ مَالِهِ طَاهِرَةً مِنْ قَلْبِهِ، فَلَا يَضُرُّهُ مَا أَخَذَ مِنْهُ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever gives zakah on his wealth with a pure heart, it will not harm him what is taken from him.'</translation> <narrator>Ibn Abbas</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1405</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 65 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ حَجَّ فَلَمْ يَرْفُثْ وَلَمْ يَفْسُقْ رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever performs Hajj and does not commit any obscenity or transgression, he will return as if he were born anew.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1521</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 66 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ حَجَّ فَلَمْ يَرْفُثْ وَلَمْ يَفْسُقْ رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever performs Hajj and does not commit any obscenity or transgression, he will return as if he were born anew.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 1521</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 67 ===
+<hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ مَاتَ وَلَمْ يَغْزُ وَلَمْ يُحَدِّثْ نَفْسَهُ بِالْغَزْوِ مَاتَ عَلَى شُعْبَةٍ مِنْ نِفَاقٍ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever dies without having fought or having thought of fighting, dies on a branch of hypocrisy.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 36</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 68 ===
+<question>Explain this hadith: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَ...</question> <hadith>قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: "مَنْ مَاتَ وَلَمْ يَغْزُ وَلَمْ يُحَدِّثْ نَفْسَهُ بِالْغَزْوِ مَاتَ عَلَى شُعْبَةٍ مِنْ نِفَاقٍ"</hadith> <translation>The Messenger of Allah (peace be upon him) said: 'Whoever dies without having fought or having thought of fighting, dies on a branch of hypocrisy.'</translation> <narrator>Abu Huraira</narrator> <grade>Sahih</grade> <reference>Sahih Bukhari 36</reference> <context>Sahih Bukhari</context>
+
+=== Training Text 69 ===
+<ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <tafsir>This verse contains three of Allah's beautiful names: Allah, Ar-Rahman, and Ar-Raheem. 'Allah' is the greatest name of Allah, the one that encompasses all His attributes. 'Ar-Rahman' indicates that Allah's mercy encompasses all creation, while 'Ar-Raheem' indicates that Allah's mercy is specifically for the believers. The Basmalah is a means of seeking Allah's blessing and protection before beginning any action.</tafsir> <author>Ibn Kathir</author> <key_points>The Basmalah contains three of Allah's most beautiful names | It serves as a means of seeking blessing and protection | It should be recited before beginning any important action</key_points> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 70 ===
+<question>What does this ayah mean: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ...</question> <ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <tafsir>This verse contains three of Allah's beautiful names: Allah, Ar-Rahman, and Ar-Raheem. 'Allah' is the greatest name of Allah, the one that encompasses all His attributes. 'Ar-Rahman' indicates that Allah's mercy encompasses all creation, while 'Ar-Raheem' indicates that Allah's mercy is specifically for the believers. The Basmalah is a means of seeking Allah's blessing and protection before beginning any action.</tafsir> <author>Ibn Kathir</author> <key_points>The Basmalah contains three of Allah's most beautiful names | It serves as a means of seeking blessing and protection | It should be recited before beginning any important action</key_points> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 71 ===
+<ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <tafsir>The scholars have differed regarding whether the Basmalah is part of Al-Fatihah or not. However, the majority opinion is that it is part of the surah. The name 'Allah' is the proper name of the Creator, while 'Ar-Rahman' and 'Ar-Raheem' are descriptive names indicating His attribute of mercy.</tafsir> <author>Al-Tabari</author> <key_points>Scholarly difference on whether Basmalah is part of Al-Fatihah | Allah is the proper name of the Creator | Ar-Rahman and Ar-Raheem describe Allah's mercy</key_points> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 72 ===
+<question>What does this ayah mean: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ...</question> <ayah>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</ayah> <tafsir>The scholars have differed regarding whether the Basmalah is part of Al-Fatihah or not. However, the majority opinion is that it is part of the surah. The name 'Allah' is the proper name of the Creator, while 'Ar-Rahman' and 'Ar-Raheem' are descriptive names indicating His attribute of mercy.</tafsir> <author>Al-Tabari</author> <key_points>Scholarly difference on whether Basmalah is part of Al-Fatihah | Allah is the proper name of the Creator | Ar-Rahman and Ar-Raheem describe Allah's mercy</key_points> <context>Surah 1:1 - Al-Fatihah</context>
+
+=== Training Text 73 ===
+<ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <tafsir>This verse establishes that all praise belongs to Allah alone. 'Al-Hamd' is more comprehensive than 'Ash-Shukr' (thanks) as it includes praise for both blessings and trials. 'Rabb al-Alameen' means the Lord of all creation, indicating Allah's complete ownership and control over everything in the universe.</tafsir> <author>Ibn Kathir</author> <key_points>All praise belongs to Allah alone | Al-Hamd is more comprehensive than thanks | Allah is the Lord of all creation</key_points> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 74 ===
+<question>What does this ayah mean: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...</question> <ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <tafsir>This verse establishes that all praise belongs to Allah alone. 'Al-Hamd' is more comprehensive than 'Ash-Shukr' (thanks) as it includes praise for both blessings and trials. 'Rabb al-Alameen' means the Lord of all creation, indicating Allah's complete ownership and control over everything in the universe.</tafsir> <author>Ibn Kathir</author> <key_points>All praise belongs to Allah alone | Al-Hamd is more comprehensive than thanks | Allah is the Lord of all creation</key_points> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 75 ===
+<ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <tafsir>The word 'Al-Hamd' indicates praise that is deserved, not just any praise. It is praise that comes from recognition of Allah's perfect attributes and actions. 'Rabb' means the one who creates, owns, and manages all affairs. 'Al-Alameen' refers to all that exists besides Allah.</tafsir> <author>Al-Qurtubi</author> <key_points>Al-Hamd is deserved praise based on recognition | Rabb means creator, owner, and manager | Al-Alameen refers to all creation</key_points> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 76 ===
+<question>What does this ayah mean: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...</question> <ayah>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</ayah> <tafsir>The word 'Al-Hamd' indicates praise that is deserved, not just any praise. It is praise that comes from recognition of Allah's perfect attributes and actions. 'Rabb' means the one who creates, owns, and manages all affairs. 'Al-Alameen' refers to all that exists besides Allah.</tafsir> <author>Al-Qurtubi</author> <key_points>Al-Hamd is deserved praise based on recognition | Rabb means creator, owner, and manager | Al-Alameen refers to all creation</key_points> <context>Surah 1:2 - Al-Fatihah</context>
+
+=== Training Text 77 ===
+<ayah>الرَّحْمَٰنِ الرَّحِيمِ</ayah> <tafsir>These two names of Allah are repeated here to emphasize His attribute of mercy. 'Ar-Rahman' indicates that Allah's mercy encompasses all creation, both believers and disbelievers, in this world. 'Ar-Raheem' indicates that Allah's mercy is specifically for the believers in the Hereafter.</tafsir> <author>Ibn Kathir</author> <key_points>Emphasis on Allah's attribute of mercy | Ar-Rahman: mercy for all creation in this world | Ar-Raheem: mercy specifically for believers in the Hereafter</key_points> <context>Surah 1:3 - Al-Fatihah</context>
+
+=== Training Text 78 ===
+<question>What does this ayah mean: الرَّحْمَٰنِ الرَّحِيمِ...</question> <ayah>الرَّحْمَٰنِ الرَّحِيمِ</ayah> <tafsir>These two names of Allah are repeated here to emphasize His attribute of mercy. 'Ar-Rahman' indicates that Allah's mercy encompasses all creation, both believers and disbelievers, in this world. 'Ar-Raheem' indicates that Allah's mercy is specifically for the believers in the Hereafter.</tafsir> <author>Ibn Kathir</author> <key_points>Emphasis on Allah's attribute of mercy | Ar-Rahman: mercy for all creation in this world | Ar-Raheem: mercy specifically for believers in the Hereafter</key_points> <context>Surah 1:3 - Al-Fatihah</context>
+
+=== Training Text 79 ===
+<ayah>مَالِكِ يَوْمِ الدِّينِ</ayah> <tafsir>This verse establishes Allah's sovereignty over the Day of Judgment. 'Malik' means the owner and ruler who has complete authority. 'Yawm ad-Deen' refers to the Day of Judgment when all people will be recompensed for their deeds. This verse reminds us that Allah alone has the authority to judge and reward or punish.</tafsir> <author>Ibn Kathir</author> <key_points>Allah is the owner and ruler of the Day of Judgment | Complete authority belongs to Allah alone | Reminder of accountability and divine justice</key_points> <context>Surah 1:4 - Al-Fatihah</context>
+
+=== Training Text 80 ===
+<question>What does this ayah mean: مَالِكِ يَوْمِ الدِّينِ...</question> <ayah>مَالِكِ يَوْمِ الدِّينِ</ayah> <tafsir>This verse establishes Allah's sovereignty over the Day of Judgment. 'Malik' means the owner and ruler who has complete authority. 'Yawm ad-Deen' refers to the Day of Judgment when all people will be recompensed for their deeds. This verse reminds us that Allah alone has the authority to judge and reward or punish.</tafsir> <author>Ibn Kathir</author> <key_points>Allah is the owner and ruler of the Day of Judgment | Complete authority belongs to Allah alone | Reminder of accountability and divine justice</key_points> <context>Surah 1:4 - Al-Fatihah</context>
+
+=== Training Text 81 ===
+<ayah>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</ayah> <tafsir>This verse establishes the proper relationship between the servant and Allah. 'Iyyaka na'budu' means we worship You alone, and 'Iyyaka nasta'een' means we seek help from You alone. The repetition of 'Iyyaka' emphasizes exclusivity - we worship none but Allah and seek help from none but Allah.</tafsir> <author>Ibn Kathir</author> <key_points>Exclusive worship of Allah alone | Exclusive reliance on Allah for help | Proper relationship between servant and Lord</key_points> <context>Surah 1:5 - Al-Fatihah</context>
+
+=== Training Text 82 ===
+<question>What does this ayah mean: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ...</question> <ayah>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</ayah> <tafsir>This verse establishes the proper relationship between the servant and Allah. 'Iyyaka na'budu' means we worship You alone, and 'Iyyaka nasta'een' means we seek help from You alone. The repetition of 'Iyyaka' emphasizes exclusivity - we worship none but Allah and seek help from none but Allah.</tafsir> <author>Ibn Kathir</author> <key_points>Exclusive worship of Allah alone | Exclusive reliance on Allah for help | Proper relationship between servant and Lord</key_points> <context>Surah 1:5 - Al-Fatihah</context>
+
+=== Training Text 83 ===
+<ayah>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</ayah> <tafsir>This is a supplication for guidance to the straight path. 'As-Sirat al-Mustaqeem' refers to the clear path that leads to Allah and Paradise. It is the path of Islam, the path of the Prophet Muhammad ﷺ and his companions. This supplication should be made continuously as guidance is needed at every step.</tafsir> <author>Ibn Kathir</author> <key_points>Supplication for continuous guidance | As-Sirat al-Mustaqeem is the path of Islam | Guidance is needed at every step of life</key_points> <context>Surah 1:6 - Al-Fatihah</context>
+
+=== Training Text 84 ===
+<question>What does this ayah mean: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ...</question> <ayah>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</ayah> <tafsir>This is a supplication for guidance to the straight path. 'As-Sirat al-Mustaqeem' refers to the clear path that leads to Allah and Paradise. It is the path of Islam, the path of the Prophet Muhammad ﷺ and his companions. This supplication should be made continuously as guidance is needed at every step.</tafsir> <author>Ibn Kathir</author> <key_points>Supplication for continuous guidance | As-Sirat al-Mustaqeem is the path of Islam | Guidance is needed at every step of life</key_points> <context>Surah 1:6 - Al-Fatihah</context>
+
+=== Training Text 85 ===
+<ayah>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</ayah> <tafsir>This verse clarifies what the straight path is. It is the path of those whom Allah has blessed - the prophets, the truthful, the martyrs, and the righteous. We should avoid the path of those who have earned Allah's anger (the Jews who knew the truth but rejected it) and those who have gone astray (the Christians who followed innovations).</tafsir> <author>Ibn Kathir</author> <key_points>The straight path is that of the blessed ones | Avoid the path of those who earned Allah's anger | Avoid the path of those who went astray</key_points> <context>Surah 1:7 - Al-Fatihah</context>
+
+=== Training Text 86 ===
+<question>What does this ayah mean: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ال...</question> <ayah>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</ayah> <tafsir>This verse clarifies what the straight path is. It is the path of those whom Allah has blessed - the prophets, the truthful, the martyrs, and the righteous. We should avoid the path of those who have earned Allah's anger (the Jews who knew the truth but rejected it) and those who have gone astray (the Christians who followed innovations).</tafsir> <author>Ibn Kathir</author> <key_points>The straight path is that of the blessed ones | Avoid the path of those who earned Allah's anger | Avoid the path of those who went astray</key_points> <context>Surah 1:7 - Al-Fatihah</context>
+

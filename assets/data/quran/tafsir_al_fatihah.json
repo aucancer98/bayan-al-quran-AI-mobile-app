@@ -1,0 +1,155 @@
+{
+  "surahNumber": 1,
+  "surahName": "Al-Fatihah",
+  "tafsir": [
+    {
+      "ayahNumber": 1,
+      "arabicText": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "This verse contains three of Allah's beautiful names: Allah, Ar-Rahman, and Ar-Raheem. 'Allah' is the greatest name of Allah, the one that encompasses all His attributes. 'Ar-Rahman' indicates that Allah's mercy encompasses all creation, while 'Ar-Raheem' indicates that Allah's mercy is specifically for the believers. The Basmalah is a means of seeking Allah's blessing and protection before beginning any action.",
+          "keyPoints": [
+            "The Basmalah contains three of Allah's most beautiful names",
+            "It serves as a means of seeking blessing and protection",
+            "It should be recited before beginning any important action"
+          ]
+        },
+        {
+          "author": "Al-Tabari",
+          "source": "Tafsir al-Tabari",
+          "commentary": "The scholars have differed regarding whether the Basmalah is part of Al-Fatihah or not. However, the majority opinion is that it is part of the surah. The name 'Allah' is the proper name of the Creator, while 'Ar-Rahman' and 'Ar-Raheem' are descriptive names indicating His attribute of mercy.",
+          "keyPoints": [
+            "Scholarly difference on whether Basmalah is part of Al-Fatihah",
+            "Allah is the proper name of the Creator",
+            "Ar-Rahman and Ar-Raheem describe Allah's mercy"
+          ]
+        }
+      ]
+    },
+    {
+      "ayahNumber": 2,
+      "arabicText": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "This verse establishes that all praise belongs to Allah alone. 'Al-Hamd' is more comprehensive than 'Ash-Shukr' (thanks) as it includes praise for both blessings and trials. 'Rabb al-Alameen' means the Lord of all creation, indicating Allah's complete ownership and control over everything in the universe.",
+          "keyPoints": [
+            "All praise belongs to Allah alone",
+            "Al-Hamd is more comprehensive than thanks",
+            "Allah is the Lord of all creation"
+          ]
+        },
+        {
+          "author": "Al-Qurtubi",
+          "source": "Tafsir al-Qurtubi",
+          "commentary": "The word 'Al-Hamd' indicates praise that is deserved, not just any praise. It is praise that comes from recognition of Allah's perfect attributes and actions. 'Rabb' means the one who creates, owns, and manages all affairs. 'Al-Alameen' refers to all that exists besides Allah.",
+          "keyPoints": [
+            "Al-Hamd is deserved praise based on recognition",
+            "Rabb means creator, owner, and manager",
+            "Al-Alameen refers to all creation"
+          ]
+        }
+      ]
+    },
+    {
+      "ayahNumber": 3,
+      "arabicText": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "These two names of Allah are repeated here to emphasize His attribute of mercy. 'Ar-Rahman' indicates that Allah's mercy encompasses all creation, both believers and disbelievers, in this world. 'Ar-Raheem' indicates that Allah's mercy is specifically for the believers in the Hereafter.",
+          "keyPoints": [
+            "Emphasis on Allah's attribute of mercy",
+            "Ar-Rahman: mercy for all creation in this world",
+            "Ar-Raheem: mercy specifically for believers in the Hereafter"
+          ]
+        }
+      ]
+    },
+    {
+      "ayahNumber": 4,
+      "arabicText": "مَالِكِ يَوْمِ الدِّينِ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "This verse establishes Allah's sovereignty over the Day of Judgment. 'Malik' means the owner and ruler who has complete authority. 'Yawm ad-Deen' refers to the Day of Judgment when all people will be recompensed for their deeds. This verse reminds us that Allah alone has the authority to judge and reward or punish.",
+          "keyPoints": [
+            "Allah is the owner and ruler of the Day of Judgment",
+            "Complete authority belongs to Allah alone",
+            "Reminder of accountability and divine justice"
+          ]
+        }
+      ]
+    },
+    {
+      "ayahNumber": 5,
+      "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "This verse establishes the proper relationship between the servant and Allah. 'Iyyaka na'budu' means we worship You alone, and 'Iyyaka nasta'een' means we seek help from You alone. The repetition of 'Iyyaka' emphasizes exclusivity - we worship none but Allah and seek help from none but Allah.",
+          "keyPoints": [
+            "Exclusive worship of Allah alone",
+            "Exclusive reliance on Allah for help",
+            "Proper relationship between servant and Lord"
+          ]
+        }
+      ]
+    },
+    {
+      "ayahNumber": 6,
+      "arabicText": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "This is a supplication for guidance to the straight path. 'As-Sirat al-Mustaqeem' refers to the clear path that leads to Allah and Paradise. It is the path of Islam, the path of the Prophet Muhammad and his companions. This supplication should be made continuously as guidance is needed at every step.",
+          "keyPoints": [
+            "Supplication for continuous guidance",
+            "As-Sirat al-Mustaqeem is the path of Islam",
+            "Guidance is needed at every step of life"
+          ]
+        }
+      ]
+    },
+    {
+      "ayahNumber": 7,
+      "arabicText": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "tafsirSources": [
+        {
+          "author": "Ibn Kathir",
+          "source": "Tafsir Ibn Kathir",
+          "commentary": "This verse clarifies what the straight path is. It is the path of those whom Allah has blessed - the prophets, the truthful, the martyrs, and the righteous. We should avoid the path of those who have earned Allah's anger (the Jews who knew the truth but rejected it) and those who have gone astray (the Christians who followed innovations).",
+          "keyPoints": [
+            "The straight path is that of the blessed ones",
+            "Avoid the path of those who earned Allah's anger",
+            "Avoid the path of those who went astray"
+          ]
+        }
+      ]
+    }
+  ],
+  "overallCommentary": {
+    "significance": "Al-Fatihah is the greatest surah in the Quran and is essential in every prayer. It contains the fundamental principles of Islam: belief in Allah's oneness, His attributes, His sovereignty, the proper relationship between servant and Lord, and the supplication for guidance.",
+    "keyThemes": [
+      "Tawhid (Oneness of Allah)",
+      "Divine attributes",
+      "Sovereignty of Allah",
+      "Worship and reliance",
+      "Seeking guidance",
+      "Avoiding misguidance"
+    ],
+    "practicalApplication": [
+      "Recite with understanding and reflection",
+      "Use as a supplication in daily life",
+      "Reflect on the meanings during prayer",
+      "Apply the guidance in daily decisions"
+    ]
+  }
+}

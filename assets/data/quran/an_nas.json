@@ -1,0 +1,447 @@
+{
+  "surahNumber": 114,
+  "surahName": "An-Nas",
+  "description": "The Mankind - Seeking refuge from Satan and evil",
+  "ayahs": [
+    {
+      "surahNumber": 114,
+      "ayahNumber": 1,
+      "arabicText": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "transliteration": "qul",
+          "root": "ق و ل",
+          "meaning": "Say",
+          "contextualMeaning": "Say (O Muhammad PBUH)",
+          "position": 1,
+          "relatedWords": ["قول", "قال", "مقول"],
+          "partOfSpeech": "verb",
+          "grammar": "imperative, second person",
+          "morphology": "قل",
+          "frequency": "Very High - common command to Prophet Muhammad PBUH"
+        },
+        {
+          "arabic": "أَعُوذُ",
+          "transliteration": "a'oodhu",
+          "root": "ع و ذ",
+          "meaning": "I seek refuge",
+          "contextualMeaning": "I seek refuge and protection",
+          "position": 2,
+          "relatedWords": ["عوذ", "استعاذة", "معاذ"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person, singular",
+          "morphology": "أ + عوذ",
+          "frequency": "High - seeking divine protection"
+        },
+        {
+          "arabic": "بِرَبِّ",
+          "transliteration": "bi-Rabb",
+          "root": "ر ب ب",
+          "meaning": "with the Lord",
+          "contextualMeaning": "with the Lord and Master",
+          "position": 3,
+          "relatedWords": ["ربوبية", "مربوب", "تربية"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive",
+          "morphology": "ب + رب",
+          "frequency": "Very High - one of Allah's primary attributes"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "root": "ن و س",
+          "meaning": "the people",
+          "contextualMeaning": "the people, mankind",
+          "position": 4,
+          "relatedWords": ["ناس", "أناس", "إنسان"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ال + ناس",
+          "frequency": "High - refers to all humanity"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Say, \"I seek refuge in the Lord of mankind,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Say: I seek refuge with the Lord and Cherisher of Mankind,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Say: \"I seek refuge with the Sustainer of men,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 114,
+      "ayahNumber": 2,
+      "arabicText": "مَلِكِ النَّاسِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "مَلِكِ",
+          "transliteration": "Maliki",
+          "root": "م ل ك",
+          "meaning": "King",
+          "contextualMeaning": "King, Ruler, Sovereign",
+          "position": 1,
+          "relatedWords": ["ملك", "ملكوت", "تملك"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "ملك",
+          "frequency": "High - emphasizes Allah's sovereignty"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "root": "ن و س",
+          "meaning": "the people",
+          "contextualMeaning": "the people, mankind",
+          "position": 2,
+          "relatedWords": ["ناس", "أناس", "إنسان"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ال + ناس",
+          "frequency": "High - refers to all humanity"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "The Sovereign of mankind,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "The King (or Ruler) of Mankind,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "the Sovereign of men,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 114,
+      "ayahNumber": 3,
+      "arabicText": "إِلَٰهِ النَّاسِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "إِلَٰهِ",
+          "transliteration": "Ilahi",
+          "root": "أ ل ه",
+          "meaning": "God",
+          "contextualMeaning": "God, the deity",
+          "position": 1,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "إله",
+          "frequency": "High - refers to the deity"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "root": "ن و س",
+          "meaning": "the people",
+          "contextualMeaning": "the people, mankind",
+          "position": 2,
+          "relatedWords": ["ناس", "أناس", "إنسان"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ال + ناس",
+          "frequency": "High - refers to all humanity"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "The God of mankind,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "The God (or Judge) of Mankind,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "the God of men,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 114,
+      "ayahNumber": 4,
+      "arabicText": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "مِن",
+          "transliteration": "min",
+          "root": "م ن",
+          "meaning": "from",
+          "contextualMeaning": "from",
+          "position": 1,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "من",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "root": "ش ر ر",
+          "meaning": "evil",
+          "contextualMeaning": "evil, harm, wickedness",
+          "position": 2,
+          "relatedWords": ["شر", "شرير", "أشرار"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "شر",
+          "frequency": "High - opposite of good"
+        },
+        {
+          "arabic": "الْوَسْوَاسِ",
+          "transliteration": "al-waswas",
+          "root": "و س و س",
+          "meaning": "the whisperer",
+          "contextualMeaning": "the whisperer, the one who whispers evil",
+          "position": 3,
+          "relatedWords": ["وسوس", "وسواس", "موسوس"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite",
+          "morphology": "ال + وسواس",
+          "frequency": "Low - specific to Satan's whispering"
+        },
+        {
+          "arabic": "الْخَنَّاسِ",
+          "transliteration": "al-khannas",
+          "root": "خ ن س",
+          "meaning": "the retreating",
+          "contextualMeaning": "the one who retreats, the sneaky one",
+          "position": 4,
+          "relatedWords": ["خنس", "خناس", "مخنس"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive, definite",
+          "morphology": "ال + خناس",
+          "frequency": "Low - specific to Satan's nature"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "From the evil of the retreating whisperer",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "from the evil of the whispering, elusive tempter",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 114,
+      "ayahNumber": 5,
+      "arabicText": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "الَّذِي",
+          "transliteration": "alladhi",
+          "root": "ل ذ ي",
+          "meaning": "who",
+          "contextualMeaning": "who, that which",
+          "position": 1,
+          "relatedWords": ["الذي", "التي", "اللذان"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "nominative, masculine, singular",
+          "morphology": "ال + ذي",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "يُوَسْوِسُ",
+          "transliteration": "yuwaswisu",
+          "root": "و س و س",
+          "meaning": "he whispers",
+          "contextualMeaning": "he whispers evil suggestions",
+          "position": 2,
+          "relatedWords": ["وسوس", "وسواس", "موسوس"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person, masculine, singular",
+          "morphology": "ي + وسوس",
+          "frequency": "Low - specific to Satan's action"
+        },
+        {
+          "arabic": "فِي",
+          "transliteration": "fee",
+          "root": "ف ي ي",
+          "meaning": "in",
+          "contextualMeaning": "in, within",
+          "position": 3,
+          "relatedWords": ["في", "داخل", "ضمن"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "في",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "صُدُورِ",
+          "transliteration": "sudoor",
+          "root": "ص د ر",
+          "meaning": "hearts",
+          "contextualMeaning": "hearts, chests",
+          "position": 4,
+          "relatedWords": ["صدر", "صدور", "مصدر"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, plural",
+          "morphology": "صدور",
+          "frequency": "High - refers to the heart/chest"
+        },
+        {
+          "arabic": "النَّاسِ",
+          "transliteration": "an-nas",
+          "root": "ن و س",
+          "meaning": "the people",
+          "contextualMeaning": "the people, mankind",
+          "position": 5,
+          "relatedWords": ["ناس", "أناس", "إنسان"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ال + ناس",
+          "frequency": "High - refers to all humanity"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Who whispers [evil] into the breasts of mankind",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "(The same) who whispers into the hearts of Mankind,-",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "who whispers in the hearts of men,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 114,
+      "ayahNumber": 6,
+      "arabicText": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "مِنَ",
+          "transliteration": "mina",
+          "root": "م ن",
+          "meaning": "from",
+          "contextualMeaning": "from",
+          "position": 1,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "من",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "الْجِنَّةِ",
+          "transliteration": "al-jinnati",
+          "root": "ج ن ن",
+          "meaning": "the jinn",
+          "contextualMeaning": "the jinn, the hidden beings",
+          "position": 2,
+          "relatedWords": ["جن", "جنة", "مجنون"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ال + جنة",
+          "frequency": "Medium - refers to jinn beings"
+        },
+        {
+          "arabic": "وَالنَّاسِ",
+          "transliteration": "wa an-nas",
+          "root": "ن و س",
+          "meaning": "and the people",
+          "contextualMeaning": "and the people, mankind",
+          "position": 3,
+          "relatedWords": ["ناس", "أناس", "إنسان"],
+          "partOfSpeech": "conjunction + noun",
+          "grammar": "coordinating + genitive, definite, plural",
+          "morphology": "و + ال + ناس",
+          "frequency": "High - refers to all humanity"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "From among the jinn and mankind.\"",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Among Jinns and among men.\"",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "whether from among the invisible beings or from among men!\"",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

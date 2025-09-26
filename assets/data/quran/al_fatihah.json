@@ -1,0 +1,569 @@
+{
+  "surahNumber": 1,
+  "surahName": "Al-Fatihah",
+  "ayahs": [
+    {
+      "surahNumber": 1,
+      "ayahNumber": 1,
+      "arabicText": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "بِسْمِ",
+          "transliteration": "bismi",
+          "root": "س م و",
+          "meaning": "In the name of",
+          "contextualMeaning": "In the name of Allah",
+          "position": 1,
+          "relatedWords": ["اسم", "تسمية", "مسمى"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "بِ + اسم",
+          "frequency": "High - appears in every surah except At-Tawbah"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "transliteration": "Allahi",
+          "root": "أ ل ه",
+          "meaning": "Allah",
+          "contextualMeaning": "Allah, the One God",
+          "position": 2,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "proper noun",
+          "grammar": "genitive",
+          "morphology": "ال + إله",
+          "frequency": "Highest - the most mentioned word in the Quran"
+        },
+        {
+          "arabic": "الرَّحْمَٰنِ",
+          "transliteration": "ar-Rahmani",
+          "root": "ر ح م",
+          "meaning": "The Most Gracious",
+          "contextualMeaning": "The Most Gracious, the Beneficent",
+          "position": 3,
+          "relatedWords": ["رحمة", "رحيم", "مرحوم"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive",
+          "morphology": "ال + رحمن",
+          "frequency": "High - one of Allah's most beautiful names"
+        },
+        {
+          "arabic": "الرَّحِيمِ",
+          "transliteration": "ar-Raheemi",
+          "root": "ر ح م",
+          "meaning": "The Most Merciful",
+          "contextualMeaning": "The Most Merciful, the Compassionate",
+          "position": 4,
+          "relatedWords": ["رحمة", "رحمن", "مرحوم"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive",
+          "morphology": "ال + رحيم",
+          "frequency": "Very High - appears 227 times in the Quran"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "In the name of Allah, Most Gracious, Most Merciful.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "In the name of God, the Most Gracious, the Dispenser of Grace.",
+          "source": "The Message of the Quran"
+        },
+        {
+          "translator": "Muhammad Muhsin Khan",
+          "language": "English",
+          "text": "In the name of Allah, the Most Beneficent, the Most Merciful.",
+          "source": "The Noble Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 2,
+      "arabicText": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "الْحَمْدُ",
+          "transliteration": "al-hamdu",
+          "root": "ح م د",
+          "meaning": "All praise",
+          "contextualMeaning": "All praise and thanks",
+          "position": 1,
+          "relatedWords": ["حمد", "محمود", "حامد"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative",
+          "morphology": "ال + حمد",
+          "frequency": "High - fundamental concept in Islam"
+        },
+        {
+          "arabic": "لِلَّهِ",
+          "transliteration": "lillahi",
+          "root": "أ ل ه",
+          "meaning": "to Allah",
+          "contextualMeaning": "belongs to Allah",
+          "position": 2,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "preposition + proper noun",
+          "grammar": "genitive",
+          "morphology": "لِ + الله",
+          "frequency": "Very High - expressing ownership and belonging"
+        },
+        {
+          "arabic": "رَبِّ",
+          "transliteration": "Rabb",
+          "root": "ر ب ب",
+          "meaning": "Lord",
+          "contextualMeaning": "Lord and Master",
+          "position": 3,
+          "relatedWords": ["ربوبية", "مربوب", "تربية"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "رب",
+          "frequency": "Very High - one of Allah's primary attributes"
+        },
+        {
+          "arabic": "الْعَالَمِينَ",
+          "transliteration": "al-alameen",
+          "root": "ع ل م",
+          "meaning": "the worlds",
+          "contextualMeaning": "all the worlds and universes",
+          "position": 4,
+          "relatedWords": ["عالم", "علم", "علامة"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive plural",
+          "morphology": "ال + عالم + ين",
+          "frequency": "High - encompasses all creation"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "[All] praise is [due] to Allah, Lord of the worlds.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Praise be to Allah, the Cherisher and Sustainer of the worlds.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "All praise is due to God alone, the Sustainer of all the worlds.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 3,
+      "arabicText": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "الرَّحْمَٰنِ",
+          "transliteration": "ar-Rahmani",
+          "root": "ر ح م",
+          "meaning": "The Most Gracious",
+          "contextualMeaning": "The Most Gracious, the Beneficent",
+          "position": 1,
+          "relatedWords": ["رحمة", "رحيم", "مرحوم"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive",
+          "morphology": "ال + رحمن",
+          "frequency": "High - one of Allah's most beautiful names"
+        },
+        {
+          "arabic": "الرَّحِيمِ",
+          "transliteration": "ar-Raheemi",
+          "root": "ر ح م",
+          "meaning": "The Most Merciful",
+          "contextualMeaning": "The Most Merciful, the Compassionate",
+          "position": 2,
+          "relatedWords": ["رحمة", "رحمن", "مرحوم"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive",
+          "morphology": "ال + رحيم",
+          "frequency": "Very High - appears 227 times in the Quran"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "The Entirely Merciful, the Especially Merciful.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Most Gracious, Most Merciful.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 4,
+      "arabicText": "مَالِكِ يَوْمِ الدِّينِ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "مَالِكِ",
+          "transliteration": "Maliki",
+          "root": "م ل ك",
+          "meaning": "Master",
+          "contextualMeaning": "Master and Owner",
+          "position": 1,
+          "relatedWords": ["ملك", "ملكوت", "تملك"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "مالك",
+          "frequency": "High - emphasizes Allah's sovereignty"
+        },
+        {
+          "arabic": "يَوْمِ",
+          "transliteration": "yawmi",
+          "root": "ي و م",
+          "meaning": "day",
+          "contextualMeaning": "the day",
+          "position": 2,
+          "relatedWords": ["يوم", "أيام", "يومي"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "يوم",
+          "frequency": "Very High - fundamental concept of time"
+        },
+        {
+          "arabic": "الدِّينِ",
+          "transliteration": "ad-deen",
+          "root": "د ي ن",
+          "meaning": "religion/judgment",
+          "contextualMeaning": "the Day of Judgment",
+          "position": 3,
+          "relatedWords": ["دين", "مدين", "تدين"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "ال + دين",
+          "frequency": "High - core Islamic concept"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Sovereign of the Day of Recompense.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Master of the Day of Judgment.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 5,
+      "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "إِيَّاكَ",
+          "transliteration": "iyyaka",
+          "root": "أ ي ي",
+          "meaning": "You alone",
+          "contextualMeaning": "You alone (emphatic)",
+          "position": 1,
+          "relatedWords": ["إيا", "إياهم", "إيانا"],
+          "partOfSpeech": "pronoun",
+          "grammar": "accusative",
+          "morphology": "إيا + ك",
+          "frequency": "Medium - emphatic pronoun"
+        },
+        {
+          "arabic": "نَعْبُدُ",
+          "transliteration": "na'budu",
+          "root": "ع ب د",
+          "meaning": "we worship",
+          "contextualMeaning": "we worship and serve",
+          "position": 2,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person plural",
+          "morphology": "ن + عبد",
+          "frequency": "High - core concept of worship"
+        },
+        {
+          "arabic": "وَإِيَّاكَ",
+          "transliteration": "wa iyyaka",
+          "root": "أ ي ي",
+          "meaning": "and You alone",
+          "contextualMeaning": "and You alone (emphatic)",
+          "position": 3,
+          "relatedWords": ["إيا", "إياهم", "إيانا"],
+          "partOfSpeech": "conjunction + pronoun",
+          "grammar": "accusative",
+          "morphology": "و + إيا + ك",
+          "frequency": "Medium - emphatic pronoun"
+        },
+        {
+          "arabic": "نَسْتَعِينُ",
+          "transliteration": "nasta'een",
+          "root": "ع و ن",
+          "meaning": "we seek help",
+          "contextualMeaning": "we seek help and assistance",
+          "position": 4,
+          "relatedWords": ["عون", "استعانة", "معين"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person plural",
+          "morphology": "ن + استعين",
+          "frequency": "High - seeking divine assistance"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "It is You we worship and You we ask for help.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Thee do we worship, and Thine aid we seek.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 6,
+      "arabicText": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "اهْدِنَا",
+          "transliteration": "ihdina",
+          "root": "ه د ي",
+          "meaning": "guide us",
+          "contextualMeaning": "guide us and show us the way",
+          "position": 1,
+          "relatedWords": ["هدى", "هداية", "مهدي"],
+          "partOfSpeech": "verb",
+          "grammar": "imperative, second person, first person plural object",
+          "morphology": "اهد + نا",
+          "frequency": "High - seeking divine guidance"
+        },
+        {
+          "arabic": "الصِّرَاطَ",
+          "transliteration": "as-sirata",
+          "root": "ص ر ط",
+          "meaning": "the path",
+          "contextualMeaning": "the straight path",
+          "position": 2,
+          "relatedWords": ["صراط", "مصير", "مسار"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative",
+          "morphology": "ال + صراط",
+          "frequency": "High - the path of righteousness"
+        },
+        {
+          "arabic": "الْمُسْتَقِيمَ",
+          "transliteration": "al-mustaqeem",
+          "root": "ق و م",
+          "meaning": "straight",
+          "contextualMeaning": "straight and upright",
+          "position": 3,
+          "relatedWords": ["قوم", "استقامة", "مستقيم"],
+          "partOfSpeech": "adjective",
+          "grammar": "accusative",
+          "morphology": "ال + مستقيم",
+          "frequency": "High - the straight path"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Guide us to the straight path.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Show us the straight way.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    },
+    {
+      "surahNumber": 1,
+      "ayahNumber": 7,
+      "arabicText": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "صِرَاطَ",
+          "transliteration": "sirata",
+          "root": "ص ر ط",
+          "meaning": "path",
+          "contextualMeaning": "the path",
+          "position": 1,
+          "relatedWords": ["صراط", "مصير", "مسار"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative",
+          "morphology": "صراط",
+          "frequency": "High - the path of righteousness"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "transliteration": "alladheena",
+          "root": "ل ذ ي",
+          "meaning": "those who",
+          "contextualMeaning": "those who",
+          "position": 2,
+          "relatedWords": ["الذي", "التي", "اللذان"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "genitive",
+          "morphology": "ال + ذين",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "أَنْعَمْتَ",
+          "transliteration": "an'amta",
+          "root": "ن ع م",
+          "meaning": "You have blessed",
+          "contextualMeaning": "You have blessed and favored",
+          "position": 3,
+          "relatedWords": ["نعمة", "منعم", "إنعام"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, second person",
+          "morphology": "أنعم + ت",
+          "frequency": "High - divine blessings"
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "transliteration": "alayhim",
+          "root": "ع ل ي",
+          "meaning": "upon them",
+          "contextualMeaning": "upon them",
+          "position": 4,
+          "relatedWords": ["على", "عليهم", "عليك"],
+          "partOfSpeech": "preposition + pronoun",
+          "grammar": "genitive",
+          "morphology": "على + هم",
+          "frequency": "Very High - common prepositional phrase"
+        },
+        {
+          "arabic": "غَيْرِ",
+          "transliteration": "ghayri",
+          "root": "غ ي ر",
+          "meaning": "not",
+          "contextualMeaning": "not, other than",
+          "position": 5,
+          "relatedWords": ["غير", "تغيير", "مغاير"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "غير",
+          "frequency": "High - negation and exception"
+        },
+        {
+          "arabic": "الْمَغْضُوبِ",
+          "transliteration": "al-maghdubi",
+          "root": "غ ض ب",
+          "meaning": "those who have earned wrath",
+          "contextualMeaning": "those who have earned Allah's wrath",
+          "position": 6,
+          "relatedWords": ["غضب", "مغضوب", "غاضب"],
+          "partOfSpeech": "adjective",
+          "grammar": "genitive",
+          "morphology": "ال + مغضوب",
+          "frequency": "Medium - those who anger Allah"
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "transliteration": "alayhim",
+          "root": "ع ل ي",
+          "meaning": "upon them",
+          "contextualMeaning": "upon them",
+          "position": 7,
+          "relatedWords": ["على", "عليهم", "عليك"],
+          "partOfSpeech": "preposition + pronoun",
+          "grammar": "genitive",
+          "morphology": "على + هم",
+          "frequency": "Very High - common prepositional phrase"
+        },
+        {
+          "arabic": "وَلَا",
+          "transliteration": "wa la",
+          "root": "ل ا",
+          "meaning": "and not",
+          "contextualMeaning": "and not",
+          "position": 8,
+          "relatedWords": ["لا", "وليس", "ولا"],
+          "partOfSpeech": "conjunction + negation",
+          "grammar": "coordinating",
+          "morphology": "و + لا",
+          "frequency": "Very High - common negation"
+        },
+        {
+          "arabic": "الضَّالِّينَ",
+          "transliteration": "ad-dalleen",
+          "root": "ض ل ل",
+          "meaning": "those who have gone astray",
+          "contextualMeaning": "those who have gone astray",
+          "position": 9,
+          "relatedWords": ["ضلال", "ضال", "تضليل"],
+          "partOfSpeech": "adjective",
+          "grammar": "accusative",
+          "morphology": "ال + ضالين",
+          "frequency": "High - those who have strayed from the path"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    }
+  ]
+}

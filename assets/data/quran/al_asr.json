@@ -1,0 +1,279 @@
+{
+  "surahNumber": 103,
+  "surahName": "Al-Asr",
+  "description": "The Time - A profound reflection on human nature and success",
+  "ayahs": [
+    {
+      "surahNumber": 103,
+      "ayahNumber": 1,
+      "arabicText": "وَالْعَصْرِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَالْعَصْرِ",
+          "transliteration": "wa al-asr",
+          "root": "ع ص ر",
+          "meaning": "By the time",
+          "contextualMeaning": "By the time, By the afternoon",
+          "position": 1,
+          "relatedWords": ["عصر", "عصرية", "معاصر"],
+          "partOfSpeech": "conjunction + noun",
+          "grammar": "coordinating + genitive, definite",
+          "morphology": "و + ال + عصر",
+          "frequency": "Medium - oath by time"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "By time,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "By (the Token of) Time (through the ages),",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "CONSIDER the flight of time!",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 103,
+      "ayahNumber": 2,
+      "arabicText": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "إِنَّ",
+          "transliteration": "inna",
+          "root": "أ ن ي",
+          "meaning": "Indeed",
+          "contextualMeaning": "Indeed, verily",
+          "position": 1,
+          "relatedWords": ["إن", "أن", "إنما"],
+          "partOfSpeech": "emphatic particle",
+          "grammar": "emphatic",
+          "morphology": "إن",
+          "frequency": "Very High - common emphatic particle"
+        },
+        {
+          "arabic": "الْإِنسَانَ",
+          "transliteration": "al-insana",
+          "root": "أ ن س",
+          "meaning": "man",
+          "contextualMeaning": "man, human being",
+          "position": 2,
+          "relatedWords": ["إنسان", "أناس", "إنسانية"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, definite",
+          "morphology": "ال + إنسان",
+          "frequency": "High - refers to human beings"
+        },
+        {
+          "arabic": "لَفِي",
+          "transliteration": "la fee",
+          "root": "ف ي ي",
+          "meaning": "is indeed in",
+          "contextualMeaning": "is indeed in",
+          "position": 3,
+          "relatedWords": ["في", "داخل", "ضمن"],
+          "partOfSpeech": "emphatic particle + preposition",
+          "grammar": "emphatic + genitive",
+          "morphology": "ل + في",
+          "frequency": "High - emphatic prepositional phrase"
+        },
+        {
+          "arabic": "خُسْرٍ",
+          "transliteration": "khusr",
+          "root": "خ س ر",
+          "meaning": "loss",
+          "contextualMeaning": "loss, ruin, destruction",
+          "position": 4,
+          "relatedWords": ["خسر", "خسارة", "مخسر"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "خسر",
+          "frequency": "High - loss and ruin"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Indeed, mankind is in loss,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Verily Man is in loss,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Verily, man is bound to lose himself",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 103,
+      "ayahNumber": 3,
+      "arabicText": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "إِلَّا",
+          "transliteration": "illa",
+          "root": "ل ا",
+          "meaning": "except",
+          "contextualMeaning": "except, but",
+          "position": 1,
+          "relatedWords": ["إلا", "غير", "سوى"],
+          "partOfSpeech": "exception particle",
+          "grammar": "exception",
+          "morphology": "إلا",
+          "frequency": "Very High - common exception particle"
+        },
+        {
+          "arabic": "الَّذِينَ",
+          "transliteration": "alladheena",
+          "root": "ل ذ ي",
+          "meaning": "those who",
+          "contextualMeaning": "those who",
+          "position": 2,
+          "relatedWords": ["الذي", "التي", "اللذان"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "nominative, plural, masculine",
+          "morphology": "ال + ذين",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "آمَنُوا",
+          "transliteration": "amanu",
+          "root": "أ م ن",
+          "meaning": "believed",
+          "contextualMeaning": "believed and had faith",
+          "position": 3,
+          "relatedWords": ["إيمان", "مؤمن", "أمان"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, plural",
+          "morphology": "آمن + وا",
+          "frequency": "Very High - core concept of faith"
+        },
+        {
+          "arabic": "وَعَمِلُوا",
+          "transliteration": "wa amilu",
+          "root": "ع م ل",
+          "meaning": "and did",
+          "contextualMeaning": "and did, and performed",
+          "position": 4,
+          "relatedWords": ["عمل", "عامل", "معمل"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + past tense, third person, masculine, plural",
+          "morphology": "و + عمل + وا",
+          "frequency": "Very High - doing and performing"
+        },
+        {
+          "arabic": "الصَّالِحَاتِ",
+          "transliteration": "as-salihat",
+          "root": "ص ل ح",
+          "meaning": "righteous deeds",
+          "contextualMeaning": "righteous deeds, good works",
+          "position": 5,
+          "relatedWords": ["صلاح", "صالح", "إصلاح"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, definite, plural, feminine",
+          "morphology": "ال + صالحات",
+          "frequency": "High - righteous deeds"
+        },
+        {
+          "arabic": "وَتَوَاصَوْا",
+          "transliteration": "wa tawasaw",
+          "root": "و ص ي",
+          "meaning": "and enjoined",
+          "contextualMeaning": "and enjoined, and advised",
+          "position": 6,
+          "relatedWords": ["وصية", "موصي", "توصية"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + past tense, third person, masculine, plural",
+          "morphology": "و + تواص + وا",
+          "frequency": "Medium - mutual advice and enjoining"
+        },
+        {
+          "arabic": "بِالْحَقِّ",
+          "transliteration": "bil-haqq",
+          "root": "ح ق ق",
+          "meaning": "with truth",
+          "contextualMeaning": "with truth, with right",
+          "position": 7,
+          "relatedWords": ["حق", "حقوق", "محق"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, definite",
+          "morphology": "ب + ال + حق",
+          "frequency": "High - truth and right"
+        },
+        {
+          "arabic": "وَتَوَاصَوْا",
+          "transliteration": "wa tawasaw",
+          "root": "و ص ي",
+          "meaning": "and enjoined",
+          "contextualMeaning": "and enjoined, and advised",
+          "position": 8,
+          "relatedWords": ["وصية", "موصي", "توصية"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + past tense, third person, masculine, plural",
+          "morphology": "و + تواص + وا",
+          "frequency": "Medium - mutual advice and enjoining"
+        },
+        {
+          "arabic": "بِالصَّبْرِ",
+          "transliteration": "bis-sabr",
+          "root": "ص ب ر",
+          "meaning": "with patience",
+          "contextualMeaning": "with patience, with perseverance",
+          "position": 9,
+          "relatedWords": ["صبر", "صابر", "مصبر"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, definite",
+          "morphology": "ب + ال + صبر",
+          "frequency": "High - patience and perseverance"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "excepting only those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

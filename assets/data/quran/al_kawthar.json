@@ -1,0 +1,227 @@
+{
+  "surahNumber": 108,
+  "surahName": "Al-Kawthar",
+  "description": "The Abundance - The shortest surah in the Quran",
+  "ayahs": [
+    {
+      "surahNumber": 108,
+      "ayahNumber": 1,
+      "arabicText": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "إِنَّا",
+          "transliteration": "inna",
+          "root": "أ ن ي",
+          "meaning": "Indeed, we",
+          "contextualMeaning": "Indeed, we (Allah)",
+          "position": 1,
+          "relatedWords": ["إن", "أن", "إنما"],
+          "partOfSpeech": "emphatic particle + pronoun",
+          "grammar": "emphatic + first person plural",
+          "morphology": "إن + نا",
+          "frequency": "Very High - common emphatic construction"
+        },
+        {
+          "arabic": "أَعْطَيْنَاكَ",
+          "transliteration": "a'taynaaka",
+          "root": "ع ط ي",
+          "meaning": "We have given you",
+          "contextualMeaning": "We have given you (O Muhammad PBUH)",
+          "position": 2,
+          "relatedWords": ["عطاء", "معطي", "عطية"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, first person plural, second person masculine object",
+          "morphology": "أ + عطي + نا + ك",
+          "frequency": "High - divine giving"
+        },
+        {
+          "arabic": "الْكَوْثَرَ",
+          "transliteration": "al-Kawthar",
+          "root": "ك ث ر",
+          "meaning": "the abundance",
+          "contextualMeaning": "the abundance, the river in Paradise",
+          "position": 3,
+          "relatedWords": ["كثرة", "كثير", "تكثير"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, definite",
+          "morphology": "ال + كوثر",
+          "frequency": "Unique - appears only once in the Quran"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "To thee have We granted the Fount (of Abundance).",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Behold, We have bestowed upon thee good in abundance:",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 108,
+      "ayahNumber": 2,
+      "arabicText": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "فَصَلِّ",
+          "transliteration": "fa salli",
+          "root": "ص ل و",
+          "meaning": "so pray",
+          "contextualMeaning": "so pray (O Muhammad PBUH)",
+          "position": 1,
+          "relatedWords": ["صلاة", "مصلي", "صلوات"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + imperative, second person",
+          "morphology": "ف + صل",
+          "frequency": "High - command to pray"
+        },
+        {
+          "arabic": "لِرَبِّكَ",
+          "transliteration": "li-Rabbika",
+          "root": "ر ب ب",
+          "meaning": "to your Lord",
+          "contextualMeaning": "to your Lord (Allah)",
+          "position": 2,
+          "relatedWords": ["ربوبية", "مربوب", "تربية"],
+          "partOfSpeech": "preposition + noun + pronoun",
+          "grammar": "genitive + second person masculine",
+          "morphology": "ل + رب + ك",
+          "frequency": "Very High - one of Allah's primary attributes"
+        },
+        {
+          "arabic": "وَانْحَرْ",
+          "transliteration": "wa anhar",
+          "root": "ن ح ر",
+          "meaning": "and sacrifice",
+          "contextualMeaning": "and sacrifice (animals)",
+          "position": 3,
+          "relatedWords": ["نحر", "منحر", "نحيرة"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + imperative, second person",
+          "morphology": "و + انحر",
+          "frequency": "Medium - ritual sacrifice"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "So pray to your Lord and sacrifice [to Him alone].",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Therefore to thy Lord turn in Prayer and Sacrifice.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "hence, pray unto thy Sustainer [alone], and sacrifice [unto Him alone].",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 108,
+      "ayahNumber": 3,
+      "arabicText": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "إِنَّ",
+          "transliteration": "inna",
+          "root": "أ ن ي",
+          "meaning": "Indeed",
+          "contextualMeaning": "Indeed, verily",
+          "position": 1,
+          "relatedWords": ["إن", "أن", "إنما"],
+          "partOfSpeech": "emphatic particle",
+          "grammar": "emphatic",
+          "morphology": "إن",
+          "frequency": "Very High - common emphatic particle"
+        },
+        {
+          "arabic": "شَانِئَكَ",
+          "transliteration": "shani'aka",
+          "root": "ش ن أ",
+          "meaning": "your hater",
+          "contextualMeaning": "your hater, your enemy",
+          "position": 2,
+          "relatedWords": ["شنآن", "شنئ", "مشنوء"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, definite, second person masculine object",
+          "morphology": "شانئ + ك",
+          "frequency": "Low - one who hates"
+        },
+        {
+          "arabic": "هُوَ",
+          "transliteration": "huwa",
+          "root": "ه و ي",
+          "meaning": "he",
+          "contextualMeaning": "he (the hater)",
+          "position": 3,
+          "relatedWords": ["هو", "هي", "هم"],
+          "partOfSpeech": "pronoun",
+          "grammar": "third person, masculine, singular",
+          "morphology": "هو",
+          "frequency": "Very High - common pronoun"
+        },
+        {
+          "arabic": "الْأَبْتَرُ",
+          "transliteration": "al-abtar",
+          "root": "ب ت ر",
+          "meaning": "the cut off",
+          "contextualMeaning": "the cut off, the one without posterity",
+          "position": 4,
+          "relatedWords": ["بتر", "مبتر", "بتير"],
+          "partOfSpeech": "adjective",
+          "grammar": "nominative, definite",
+          "morphology": "ال + أبتر",
+          "frequency": "Low - one who is cut off"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Indeed, your enemy is the one cut off.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "For he who hateth thee, he will be cut off (from Future Hope).",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Verily, he that hates thee has indeed been cut off!",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

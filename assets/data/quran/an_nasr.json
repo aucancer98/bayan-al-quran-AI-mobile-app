@@ -1,0 +1,344 @@
+{
+  "surahNumber": 110,
+  "surahName": "An-Nasr",
+  "description": "The Divine Support - Victory and triumph",
+  "ayahs": [
+    {
+      "surahNumber": 110,
+      "ayahNumber": 1,
+      "arabicText": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "إِذَا",
+          "transliteration": "itha",
+          "root": "إ ذ ا",
+          "meaning": "when",
+          "contextualMeaning": "when, at the time when",
+          "position": 1,
+          "relatedWords": ["إذا", "إذ", "إذن"],
+          "partOfSpeech": "conditional particle",
+          "grammar": "conditional",
+          "morphology": "إذا",
+          "frequency": "Very High - common conditional particle"
+        },
+        {
+          "arabic": "جَاءَ",
+          "transliteration": "jaa",
+          "root": "ج ي ي",
+          "meaning": "comes",
+          "contextualMeaning": "comes, arrives",
+          "position": 2,
+          "relatedWords": ["جاء", "مجيء", "جاءت"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, singular",
+          "morphology": "جاء",
+          "frequency": "Very High - common verb of arrival"
+        },
+        {
+          "arabic": "نَصْرُ",
+          "transliteration": "nasru",
+          "root": "ن ص ر",
+          "meaning": "help",
+          "contextualMeaning": "help, victory, support",
+          "position": 3,
+          "relatedWords": ["نصر", "منصور", "انتصار"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, indefinite",
+          "morphology": "نصر",
+          "frequency": "High - divine help and victory"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "transliteration": "Allahi",
+          "root": "أ ل ه",
+          "meaning": "of Allah",
+          "contextualMeaning": "of Allah, the One God",
+          "position": 4,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "proper noun",
+          "grammar": "genitive",
+          "morphology": "الله",
+          "frequency": "Highest - the most mentioned word in the Quran"
+        },
+        {
+          "arabic": "وَالْفَتْحُ",
+          "transliteration": "wa al-fath",
+          "root": "ف ت ح",
+          "meaning": "and the victory",
+          "contextualMeaning": "and the victory, the conquest",
+          "position": 5,
+          "relatedWords": ["فتح", "فتاح", "انفتاح"],
+          "partOfSpeech": "conjunction + noun",
+          "grammar": "coordinating + nominative, definite",
+          "morphology": "و + ال + فتح",
+          "frequency": "High - victory and conquest"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "When the victory of Allah has come and the conquest,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "When comes the Help of Allah, and Victory,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "When God's succour comes, and victory,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 110,
+      "ayahNumber": 2,
+      "arabicText": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَرَأَيْتَ",
+          "transliteration": "wa ra'ayta",
+          "root": "ر أ ي",
+          "meaning": "and you see",
+          "contextualMeaning": "and you see (O Muhammad PBUH)",
+          "position": 1,
+          "relatedWords": ["رأى", "رؤية", "مرئي"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + past tense, second person, masculine, singular",
+          "morphology": "و + رأي + ت",
+          "frequency": "High - seeing and observing"
+        },
+        {
+          "arabic": "النَّاسَ",
+          "transliteration": "an-nasa",
+          "root": "ن و س",
+          "meaning": "the people",
+          "contextualMeaning": "the people, mankind",
+          "position": 2,
+          "relatedWords": ["ناس", "أناس", "إنسان"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, definite, plural",
+          "morphology": "ال + ناس",
+          "frequency": "High - refers to all humanity"
+        },
+        {
+          "arabic": "يَدْخُلُونَ",
+          "transliteration": "yadkhuloon",
+          "root": "د خ ل",
+          "meaning": "entering",
+          "contextualMeaning": "entering, coming into",
+          "position": 3,
+          "relatedWords": ["دخول", "مدخل", "داخل"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person, masculine, plural",
+          "morphology": "ي + دخول + ون",
+          "frequency": "High - entering and joining"
+        },
+        {
+          "arabic": "فِي",
+          "transliteration": "fee",
+          "root": "ف ي ي",
+          "meaning": "in",
+          "contextualMeaning": "in, into",
+          "position": 4,
+          "relatedWords": ["في", "داخل", "ضمن"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "في",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "دِينِ",
+          "transliteration": "deen",
+          "root": "د ي ن",
+          "meaning": "religion",
+          "contextualMeaning": "religion, way of life",
+          "position": 5,
+          "relatedWords": ["دين", "مدين", "تدين"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "دين",
+          "frequency": "High - core Islamic concept"
+        },
+        {
+          "arabic": "اللَّهِ",
+          "transliteration": "Allahi",
+          "root": "أ ل ه",
+          "meaning": "of Allah",
+          "contextualMeaning": "of Allah, the One God",
+          "position": 6,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "proper noun",
+          "grammar": "genitive",
+          "morphology": "الله",
+          "frequency": "Highest - the most mentioned word in the Quran"
+        },
+        {
+          "arabic": "أَفْوَاجًا",
+          "transliteration": "afwajan",
+          "root": "ف و ج",
+          "meaning": "in groups",
+          "contextualMeaning": "in groups, in crowds",
+          "position": 7,
+          "relatedWords": ["فوج", "أفواج", "تفويج"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, indefinite, plural",
+          "morphology": "أفواج",
+          "frequency": "Medium - groups and crowds"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "And you see the people entering into the religion of Allah in multitudes,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "And thou dost see the people enter Allah's Religion in crowds,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and thou seest people enter God's religion in hosts,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 110,
+      "ayahNumber": 3,
+      "arabicText": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "فَسَبِّحْ",
+          "transliteration": "fa sabbih",
+          "root": "س ب ح",
+          "meaning": "so glorify",
+          "contextualMeaning": "so glorify and praise",
+          "position": 1,
+          "relatedWords": ["سبح", "تسبيح", "مسبح"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "coordinating + imperative, second person",
+          "morphology": "ف + سبح",
+          "frequency": "High - glorifying Allah"
+        },
+        {
+          "arabic": "بِحَمْدِ",
+          "transliteration": "bi-hamdi",
+          "root": "ح م د",
+          "meaning": "with praise",
+          "contextualMeaning": "with praise and thanks",
+          "position": 2,
+          "relatedWords": ["حمد", "محمود", "حامد"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive",
+          "morphology": "ب + حمد",
+          "frequency": "High - praising Allah"
+        },
+        {
+          "arabic": "رَبِّكَ",
+          "transliteration": "Rabbika",
+          "root": "ر ب ب",
+          "meaning": "your Lord",
+          "contextualMeaning": "your Lord (Allah)",
+          "position": 3,
+          "relatedWords": ["ربوبية", "مربوب", "تربية"],
+          "partOfSpeech": "noun + pronoun",
+          "grammar": "genitive, second person, masculine, singular",
+          "morphology": "رب + ك",
+          "frequency": "Very High - one of Allah's primary attributes"
+        },
+        {
+          "arabic": "وَاسْتَغْفِرْهُ",
+          "transliteration": "wa istaghfirhu",
+          "root": "غ ف ر",
+          "meaning": "and seek His forgiveness",
+          "contextualMeaning": "and seek His forgiveness",
+          "position": 4,
+          "relatedWords": ["غفر", "مغفرة", "استغفار"],
+          "partOfSpeech": "conjunction + verb + pronoun",
+          "grammar": "coordinating + imperative, second person + third person, masculine, singular object",
+          "morphology": "و + استغفر + ه",
+          "frequency": "High - seeking forgiveness"
+        },
+        {
+          "arabic": "إِنَّهُ",
+          "transliteration": "innahu",
+          "root": "أ ن ي",
+          "meaning": "indeed, He",
+          "contextualMeaning": "indeed, He (Allah)",
+          "position": 5,
+          "relatedWords": ["إن", "أن", "إنما"],
+          "partOfSpeech": "emphatic particle + pronoun",
+          "grammar": "emphatic + third person, masculine, singular",
+          "morphology": "إن + ه",
+          "frequency": "Very High - common emphatic construction"
+        },
+        {
+          "arabic": "كَانَ",
+          "transliteration": "kaana",
+          "root": "ك و ن",
+          "meaning": "He is",
+          "contextualMeaning": "He is, He was",
+          "position": 6,
+          "relatedWords": ["كان", "كون", "مكون"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, singular",
+          "morphology": "كان",
+          "frequency": "Very High - common verb of being"
+        },
+        {
+          "arabic": "تَوَّابًا",
+          "transliteration": "tawwaban",
+          "root": "ت و ب",
+          "meaning": "Oft-Returning",
+          "contextualMeaning": "Oft-Returning, Accepting of repentance",
+          "position": 7,
+          "relatedWords": ["توبة", "تائب", "تواب"],
+          "partOfSpeech": "adjective",
+          "grammar": "accusative, indefinite",
+          "morphology": "تواب",
+          "frequency": "High - one of Allah's beautiful names"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Celebrate the praises of thy Lord, and pray for His Forgiveness: For He is Oft-Returning (in Grace and Mercy).",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "extol thy Sustainer's limitless glory, and praise Him, and seek His forgiveness: for, behold, He is ever an acceptor of repentance.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

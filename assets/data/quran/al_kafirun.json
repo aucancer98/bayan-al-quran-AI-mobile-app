@@ -1,0 +1,538 @@
+{
+  "surahNumber": 109,
+  "surahName": "Al-Kafirun",
+  "description": "The Disbelievers - Declaration of religious independence",
+  "ayahs": [
+    {
+      "surahNumber": 109,
+      "ayahNumber": 1,
+      "arabicText": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "transliteration": "qul",
+          "root": "ق و ل",
+          "meaning": "Say",
+          "contextualMeaning": "Say (O Muhammad PBUH)",
+          "position": 1,
+          "relatedWords": ["قول", "قال", "مقول"],
+          "partOfSpeech": "verb",
+          "grammar": "imperative, second person",
+          "morphology": "قل",
+          "frequency": "Very High - common command to Prophet Muhammad PBUH"
+        },
+        {
+          "arabic": "يَا",
+          "transliteration": "ya",
+          "root": "ي ا",
+          "meaning": "O",
+          "contextualMeaning": "O (vocative particle)",
+          "position": 2,
+          "relatedWords": ["يا", "أيها", "أيتها"],
+          "partOfSpeech": "vocative particle",
+          "grammar": "vocative",
+          "morphology": "يا",
+          "frequency": "Very High - common vocative particle"
+        },
+        {
+          "arabic": "أَيُّهَا",
+          "transliteration": "ayyuha",
+          "root": "أ ي ي",
+          "meaning": "you",
+          "contextualMeaning": "you (emphatic address)",
+          "position": 3,
+          "relatedWords": ["أي", "أيتها", "أيها"],
+          "partOfSpeech": "vocative pronoun",
+          "grammar": "vocative, masculine, plural",
+          "morphology": "أي + ها",
+          "frequency": "High - emphatic address"
+        },
+        {
+          "arabic": "الْكَافِرُونَ",
+          "transliteration": "al-kafiroon",
+          "root": "ك ف ر",
+          "meaning": "the disbelievers",
+          "contextualMeaning": "the disbelievers, the rejecters of faith",
+          "position": 4,
+          "relatedWords": ["كفر", "كافر", "تكفير"],
+          "partOfSpeech": "noun",
+          "grammar": "vocative, definite, plural, masculine",
+          "morphology": "ال + كافرون",
+          "frequency": "High - those who reject faith"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Say, \"O disbelievers,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Say: O ye that reject Faith!",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Say: \"O you who deny the truth!",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 109,
+      "ayahNumber": 2,
+      "arabicText": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "لَا",
+          "transliteration": "la",
+          "root": "ل ا",
+          "meaning": "not",
+          "contextualMeaning": "not, no",
+          "position": 1,
+          "relatedWords": ["لا", "ليس", "غير"],
+          "partOfSpeech": "negation particle",
+          "grammar": "negation",
+          "morphology": "لا",
+          "frequency": "Very High - common negation"
+        },
+        {
+          "arabic": "أَعْبُدُ",
+          "transliteration": "a'budu",
+          "root": "ع ب د",
+          "meaning": "I worship",
+          "contextualMeaning": "I worship and serve",
+          "position": 2,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person, singular",
+          "morphology": "أ + عبد",
+          "frequency": "High - core concept of worship"
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "ma",
+          "root": "م ا",
+          "meaning": "what",
+          "contextualMeaning": "what, that which",
+          "position": 3,
+          "relatedWords": ["ما", "ماذا", "أما"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "accusative",
+          "morphology": "ما",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "تَعْبُدُونَ",
+          "transliteration": "ta'budoon",
+          "root": "ع ب د",
+          "meaning": "you worship",
+          "contextualMeaning": "you worship and serve",
+          "position": 4,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, second person, plural",
+          "morphology": "ت + عبد + ون",
+          "frequency": "High - core concept of worship"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "I do not worship what you worship.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "I worship not that which ye worship,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "I will not worship that which you worship,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 109,
+      "ayahNumber": 3,
+      "arabicText": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَلَا",
+          "transliteration": "wa la",
+          "root": "ل ا",
+          "meaning": "and not",
+          "contextualMeaning": "and not",
+          "position": 1,
+          "relatedWords": ["لا", "ليس", "غير"],
+          "partOfSpeech": "conjunction + negation particle",
+          "grammar": "coordinating + negation",
+          "morphology": "و + لا",
+          "frequency": "Very High - common conjunction with negation"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "transliteration": "antum",
+          "root": "أ ن ت",
+          "meaning": "you",
+          "contextualMeaning": "you (plural)",
+          "position": 2,
+          "relatedWords": ["أنت", "أنتم", "أنتن"],
+          "partOfSpeech": "pronoun",
+          "grammar": "second person, masculine, plural",
+          "morphology": "أنتم",
+          "frequency": "Very High - common pronoun"
+        },
+        {
+          "arabic": "عَابِدُونَ",
+          "transliteration": "abidoon",
+          "root": "ع ب د",
+          "meaning": "worshippers",
+          "contextualMeaning": "worshippers, those who worship",
+          "position": 3,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, plural, masculine",
+          "morphology": "عابدون",
+          "frequency": "High - those who worship"
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "ma",
+          "root": "م ا",
+          "meaning": "what",
+          "contextualMeaning": "what, that which",
+          "position": 4,
+          "relatedWords": ["ما", "ماذا", "أما"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "accusative",
+          "morphology": "ما",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "أَعْبُدُ",
+          "transliteration": "a'budu",
+          "root": "ع ب د",
+          "meaning": "I worship",
+          "contextualMeaning": "I worship and serve",
+          "position": 5,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person, singular",
+          "morphology": "أ + عبد",
+          "frequency": "High - core concept of worship"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Nor are you worshippers of what I worship.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Nor will ye worship that which I worship.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and neither will you worship that which I worship.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 109,
+      "ayahNumber": 4,
+      "arabicText": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَلَا",
+          "transliteration": "wa la",
+          "root": "ل ا",
+          "meaning": "and not",
+          "contextualMeaning": "and not",
+          "position": 1,
+          "relatedWords": ["لا", "ليس", "غير"],
+          "partOfSpeech": "conjunction + negation particle",
+          "grammar": "coordinating + negation",
+          "morphology": "و + لا",
+          "frequency": "Very High - common conjunction with negation"
+        },
+        {
+          "arabic": "أَنَا",
+          "transliteration": "ana",
+          "root": "أ ن ي",
+          "meaning": "I",
+          "contextualMeaning": "I",
+          "position": 2,
+          "relatedWords": ["أنا", "نحن", "إيانا"],
+          "partOfSpeech": "pronoun",
+          "grammar": "first person, singular",
+          "morphology": "أنا",
+          "frequency": "Very High - common pronoun"
+        },
+        {
+          "arabic": "عَابِدٌ",
+          "transliteration": "abidun",
+          "root": "ع ب د",
+          "meaning": "worshipper",
+          "contextualMeaning": "worshipper, one who worships",
+          "position": 3,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, singular, masculine",
+          "morphology": "عابد",
+          "frequency": "High - one who worships"
+        },
+        {
+          "arabic": "مَّا",
+          "transliteration": "ma",
+          "root": "م ا",
+          "meaning": "what",
+          "contextualMeaning": "what, that which",
+          "position": 4,
+          "relatedWords": ["ما", "ماذا", "أما"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "accusative",
+          "morphology": "ما",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "عَبَدتُّمْ",
+          "transliteration": "abadtum",
+          "root": "ع ب د",
+          "meaning": "you worshipped",
+          "contextualMeaning": "you worshipped and served",
+          "position": 5,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, second person, plural",
+          "morphology": "عبد + تم",
+          "frequency": "High - core concept of worship"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Nor will I be a worshipper of what you worshipped.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "And I will not worship that which ye have been wont to worship,",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "And I will not worship that which you have [ever] worshipped,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 109,
+      "ayahNumber": 5,
+      "arabicText": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَلَا",
+          "transliteration": "wa la",
+          "root": "ل ا",
+          "meaning": "and not",
+          "contextualMeaning": "and not",
+          "position": 1,
+          "relatedWords": ["لا", "ليس", "غير"],
+          "partOfSpeech": "conjunction + negation particle",
+          "grammar": "coordinating + negation",
+          "morphology": "و + لا",
+          "frequency": "Very High - common conjunction with negation"
+        },
+        {
+          "arabic": "أَنتُمْ",
+          "transliteration": "antum",
+          "root": "أ ن ت",
+          "meaning": "you",
+          "contextualMeaning": "you (plural)",
+          "position": 2,
+          "relatedWords": ["أنت", "أنتم", "أنتن"],
+          "partOfSpeech": "pronoun",
+          "grammar": "second person, masculine, plural",
+          "morphology": "أنتم",
+          "frequency": "Very High - common pronoun"
+        },
+        {
+          "arabic": "عَابِدُونَ",
+          "transliteration": "abidoon",
+          "root": "ع ب د",
+          "meaning": "worshippers",
+          "contextualMeaning": "worshippers, those who worship",
+          "position": 3,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, plural, masculine",
+          "morphology": "عابدون",
+          "frequency": "High - those who worship"
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "ma",
+          "root": "م ا",
+          "meaning": "what",
+          "contextualMeaning": "what, that which",
+          "position": 4,
+          "relatedWords": ["ما", "ماذا", "أما"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "accusative",
+          "morphology": "ما",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "أَعْبُدُ",
+          "transliteration": "a'budu",
+          "root": "ع ب د",
+          "meaning": "I worship",
+          "contextualMeaning": "I worship and serve",
+          "position": 5,
+          "relatedWords": ["عبد", "عبادة", "معبود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person, singular",
+          "morphology": "أ + عبد",
+          "frequency": "High - core concept of worship"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Nor will you be worshippers of what I worship.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Nor will ye worship that which I worship.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and neither will you worship that which I worship.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 109,
+      "ayahNumber": 6,
+      "arabicText": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "لَكُمْ",
+          "transliteration": "lakum",
+          "root": "ل ك م",
+          "meaning": "for you",
+          "contextualMeaning": "for you (plural)",
+          "position": 1,
+          "relatedWords": ["لك", "لكم", "لكن"],
+          "partOfSpeech": "preposition + pronoun",
+          "grammar": "genitive, second person, masculine, plural",
+          "morphology": "ل + كم",
+          "frequency": "Very High - common prepositional phrase"
+        },
+        {
+          "arabic": "دِينُكُمْ",
+          "transliteration": "deenukum",
+          "root": "د ي ن",
+          "meaning": "your religion",
+          "contextualMeaning": "your religion and way of life",
+          "position": 2,
+          "relatedWords": ["دين", "مدين", "تدين"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, definite, second person, masculine, plural",
+          "morphology": "دين + كم",
+          "frequency": "High - core Islamic concept"
+        },
+        {
+          "arabic": "وَلِيَ",
+          "transliteration": "wa liya",
+          "root": "ل ي ي",
+          "meaning": "and for me",
+          "contextualMeaning": "and for me",
+          "position": 3,
+          "relatedWords": ["لي", "ليا", "لنا"],
+          "partOfSpeech": "conjunction + preposition + pronoun",
+          "grammar": "coordinating + genitive, first person, singular",
+          "morphology": "و + ل + ي",
+          "frequency": "Very High - common conjunction with preposition"
+        },
+        {
+          "arabic": "دِينِ",
+          "transliteration": "deen",
+          "root": "د ي ن",
+          "meaning": "religion",
+          "contextualMeaning": "religion and way of life",
+          "position": 4,
+          "relatedWords": ["دين", "مدين", "تدين"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "دين",
+          "frequency": "High - core Islamic concept"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "For you is your religion, and for me is my religion.\"",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "To you be your Way, and to me mine.\"",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Unto you, your moral law, and unto me, mine!\"",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

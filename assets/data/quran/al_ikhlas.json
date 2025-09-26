@@ -1,0 +1,322 @@
+{
+  "surahNumber": 112,
+  "surahName": "Al-Ikhlas",
+  "description": "The Sincerity - A fundamental declaration of Allah's oneness",
+  "ayahs": [
+    {
+      "surahNumber": 112,
+      "ayahNumber": 1,
+      "arabicText": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "transliteration": "qul",
+          "root": "ق و ل",
+          "meaning": "Say",
+          "contextualMeaning": "Say (O Muhammad PBUH)",
+          "position": 1,
+          "relatedWords": ["قول", "قال", "مقول"],
+          "partOfSpeech": "verb",
+          "grammar": "imperative, second person",
+          "morphology": "قل",
+          "frequency": "Very High - common command to Prophet Muhammad PBUH"
+        },
+        {
+          "arabic": "هُوَ",
+          "transliteration": "huwa",
+          "root": "ه و ي",
+          "meaning": "He",
+          "contextualMeaning": "He (Allah)",
+          "position": 2,
+          "relatedWords": ["هو", "هي", "هم"],
+          "partOfSpeech": "pronoun",
+          "grammar": "third person, masculine, singular",
+          "morphology": "هو",
+          "frequency": "Very High - common pronoun"
+        },
+        {
+          "arabic": "اللَّهُ",
+          "transliteration": "Allahu",
+          "root": "أ ل ه",
+          "meaning": "Allah",
+          "contextualMeaning": "Allah, the One God",
+          "position": 3,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "proper noun",
+          "grammar": "nominative",
+          "morphology": "الله",
+          "frequency": "Highest - the most mentioned word in the Quran"
+        },
+        {
+          "arabic": "أَحَدٌ",
+          "transliteration": "ahadun",
+          "root": "أ ح د",
+          "meaning": "One",
+          "contextualMeaning": "One, Unique, Absolute One",
+          "position": 4,
+          "relatedWords": ["واحد", "أحدية", "توحيد"],
+          "partOfSpeech": "adjective",
+          "grammar": "nominative, indefinite",
+          "morphology": "أحد",
+          "frequency": "High - emphasizes Allah's oneness"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Say, \"He is Allah, [who is] One,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Say: He is Allah, the One and Only;",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Say: \"He is the One God:",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 112,
+      "ayahNumber": 2,
+      "arabicText": "اللَّهُ الصَّمَدُ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "اللَّهُ",
+          "transliteration": "Allahu",
+          "root": "أ ل ه",
+          "meaning": "Allah",
+          "contextualMeaning": "Allah, the One God",
+          "position": 1,
+          "relatedWords": ["إله", "اللاهوت", "تأليه"],
+          "partOfSpeech": "proper noun",
+          "grammar": "nominative",
+          "morphology": "الله",
+          "frequency": "Highest - the most mentioned word in the Quran"
+        },
+        {
+          "arabic": "الصَّمَدُ",
+          "transliteration": "as-Samad",
+          "root": "ص م د",
+          "meaning": "the Eternal",
+          "contextualMeaning": "the Eternal, the Absolute, the Self-Sufficient",
+          "position": 2,
+          "relatedWords": ["صمد", "تصمد", "مصمد"],
+          "partOfSpeech": "adjective",
+          "grammar": "nominative, definite",
+          "morphology": "ال + صمد",
+          "frequency": "Unique - appears only once in the Quran"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Allah, the Eternal Refuge.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Allah, the Eternal, Absolute;",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "God the Eternal, the Uncaused Cause of all that exists.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 112,
+      "ayahNumber": 3,
+      "arabicText": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "لَمْ",
+          "transliteration": "lam",
+          "root": "ل م",
+          "meaning": "not",
+          "contextualMeaning": "not (negation of past tense)",
+          "position": 1,
+          "relatedWords": ["لم", "لما", "لمن"],
+          "partOfSpeech": "negation particle",
+          "grammar": "negation of past tense",
+          "morphology": "لم",
+          "frequency": "Very High - common negation"
+        },
+        {
+          "arabic": "يَلِدْ",
+          "transliteration": "yalid",
+          "root": "و ل د",
+          "meaning": "He begets",
+          "contextualMeaning": "He begets or gives birth",
+          "position": 2,
+          "relatedWords": ["ولد", "ولادة", "مولود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person, masculine, singular",
+          "morphology": "ي + لد",
+          "frequency": "Medium - related to procreation"
+        },
+        {
+          "arabic": "وَلَمْ",
+          "transliteration": "wa lam",
+          "root": "ل م",
+          "meaning": "and not",
+          "contextualMeaning": "and not",
+          "position": 3,
+          "relatedWords": ["لم", "لما", "لمن"],
+          "partOfSpeech": "conjunction + negation particle",
+          "grammar": "coordinating + negation",
+          "morphology": "و + لم",
+          "frequency": "Very High - common conjunction with negation"
+        },
+        {
+          "arabic": "يُولَدْ",
+          "transliteration": "yoolad",
+          "root": "و ل د",
+          "meaning": "He is begotten",
+          "contextualMeaning": "He is begotten or born",
+          "position": 4,
+          "relatedWords": ["ولد", "ولادة", "مولود"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person, masculine, singular, passive",
+          "morphology": "ي + ولد",
+          "frequency": "Medium - related to being born"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "He neither begets nor is born,",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "He begetteth not, nor is He begotten;",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "He begets not, and neither is He begotten;",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 112,
+      "ayahNumber": 4,
+      "arabicText": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَلَمْ",
+          "transliteration": "wa lam",
+          "root": "ل م",
+          "meaning": "and not",
+          "contextualMeaning": "and not",
+          "position": 1,
+          "relatedWords": ["لم", "لما", "لمن"],
+          "partOfSpeech": "conjunction + negation particle",
+          "grammar": "coordinating + negation",
+          "morphology": "و + لم",
+          "frequency": "Very High - common conjunction with negation"
+        },
+        {
+          "arabic": "يَكُن",
+          "transliteration": "yakun",
+          "root": "ك و ن",
+          "meaning": "He is",
+          "contextualMeaning": "He is or exists",
+          "position": 2,
+          "relatedWords": ["كان", "كون", "مكون"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person, masculine, singular",
+          "morphology": "ي + كن",
+          "frequency": "Very High - common verb of being"
+        },
+        {
+          "arabic": "لَّهُ",
+          "transliteration": "lahu",
+          "root": "ل ه و",
+          "meaning": "for Him",
+          "contextualMeaning": "for Him (Allah)",
+          "position": 3,
+          "relatedWords": ["له", "لهو", "لهم"],
+          "partOfSpeech": "preposition + pronoun",
+          "grammar": "genitive",
+          "morphology": "ل + ه",
+          "frequency": "Very High - common prepositional phrase"
+        },
+        {
+          "arabic": "كُفُوًا",
+          "transliteration": "kufuwan",
+          "root": "ك ف و",
+          "meaning": "equal",
+          "contextualMeaning": "equal, equivalent, match",
+          "position": 4,
+          "relatedWords": ["كفو", "كفاءة", "مكافئ"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, indefinite",
+          "morphology": "كفو",
+          "frequency": "Low - unique usage in this context"
+        },
+        {
+          "arabic": "أَحَدٌ",
+          "transliteration": "ahadun",
+          "root": "أ ح د",
+          "meaning": "anyone",
+          "contextualMeaning": "anyone, any being",
+          "position": 5,
+          "relatedWords": ["واحد", "أحدية", "توحيد"],
+          "partOfSpeech": "pronoun",
+          "grammar": "accusative, indefinite",
+          "morphology": "أحد",
+          "frequency": "High - emphasizes Allah's uniqueness"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Nor is there to Him any equivalent.\"",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "And there is none like unto Him.\"",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and there is nothing that could be compared with Him.\"",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

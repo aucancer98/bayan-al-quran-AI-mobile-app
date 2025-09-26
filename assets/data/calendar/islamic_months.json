@@ -1,0 +1,908 @@
+{
+  "months": [
+    {
+      "number": 1,
+      "name": "Muharram",
+      "arabicName": "مُحَرَّم",
+      "description": "The first month of the Islamic calendar, considered sacred. It is one of the four sacred months in Islam.",
+      "days": 30,
+      "significance": "Sacred month - warfare is prohibited",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Islamic New Year",
+          "arabicName": "رأس السنة الهجرية",
+          "description": "The beginning of the Islamic calendar year",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Reflection on the Hijra", "Planning for the year", "Seeking Allah's guidance"]
+        },
+        {
+          "day": 10,
+          "name": "Ashura",
+          "arabicName": "عاشوراء",
+          "description": "The 10th day of Muharram, commemorating various historical events including the day Allah saved Prophet Musa (PBUH) and his people from Pharaoh",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Fasting (recommended)", "Charity", "Commemoration", "Reflection on divine deliverance"]
+        },
+        {
+          "day": 7,
+          "name": "Battle of Karbala",
+          "arabicName": "معركة كربلاء",
+          "description": "Commemoration of the martyrdom of Imam Hussain and his companions",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Commemoration", "Reflection on sacrifice", "Charity", "Learning about Islamic history"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Zayn al-Abidin",
+          "arabicName": "مولد الإمام زين العابدين",
+          "description": "Birth of Imam Zayn al-Abidin, the 4th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 25,
+          "name": "Martyrdom of Imam Zayn al-Abidin",
+          "arabicName": "استشهاد الإمام زين العابدين",
+          "description": "Commemoration of the martyrdom of Imam Zayn al-Abidin",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Reflection", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Fasting on Ashura", "Charity", "Reflection", "Avoiding warfare", "Learning about Islamic history"]
+    },
+    {
+      "number": 2,
+      "name": "Safar",
+      "arabicName": "صَفَر",
+      "description": "The second month of the Islamic calendar. The name means 'empty' or 'yellow'.",
+      "days": 29,
+      "significance": "Regular month",
+      "significantEvents": [
+        {
+          "day": 8,
+          "name": "Birth of Imam Hasan",
+          "arabicName": "مولد الإمام الحسن",
+          "description": "Birth of Imam Hasan ibn Ali, the grandson of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 17,
+          "name": "Birth of Imam Ali al-Ridha",
+          "arabicName": "مولد الإمام علي الرضا",
+          "description": "Birth of Imam Ali al-Ridha, the 8th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 28,
+          "name": "Death of Prophet Muhammad (PBUH)",
+          "arabicName": "وفاة النبي محمد",
+          "description": "Commemoration of the passing of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Reflection on his teachings", "Increased prayers", "Charity", "Studying his life"]
+        },
+        {
+          "day": 3,
+          "name": "Birth of Imam Ali al-Ridha",
+          "arabicName": "مولد الإمام علي الرضا",
+          "description": "Birth of Imam Ali al-Ridha, the 8th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 20,
+          "name": "Arba'een",
+          "arabicName": "الأربعين",
+          "description": "40th day after Ashura, commemorating the martyrdom of Imam Hussain",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Pilgrimage to Karbala", "Commemoration", "Charity", "Reflection"]
+        }
+      ],
+      "recommendedActs": ["Learning about Islamic history", "Charity", "Reflection on Prophet's (PBUH) teachings", "Studying Imam's lives"]
+    },
+    {
+      "number": 3,
+      "name": "Rabi' al-Awwal",
+      "arabicName": "رَبِيع الأَوَّل",
+      "description": "The third month, known for the birth of Prophet Muhammad (PBUH). 'Rabi' means 'spring' in Arabic.",
+      "days": 30,
+      "significance": "Month of Prophet's (PBUH) birth",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Hijra to Medina",
+          "arabicName": "الهجرة إلى المدينة",
+          "description": "Commemoration of the Prophet's (PBUH) migration from Mecca to Medina",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Reflection on the journey", "Learning about Islamic history", "Charity"]
+        },
+        {
+          "day": 8,
+          "name": "Birth of Imam Hasan al-Askari",
+          "arabicName": "مولد الإمام الحسن العسكري",
+          "description": "Birth of Imam Hasan al-Askari, the 11th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 12,
+          "name": "Mawlid an-Nabi (PBUH)",
+          "arabicName": "مولد النبي",
+          "description": "Birthday of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Recitation of Quran", "Poetry about the Prophet (PBUH)", "Charity", "Community gatherings", "Learning about his life"]
+        },
+        {
+          "day": 17,
+          "name": "Birth of Imam Ja'far al-Sadiq",
+          "arabicName": "مولد الإمام جعفر الصادق",
+          "description": "Birth of Imam Ja'far al-Sadiq, the 6th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 3,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 9,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 25,
+          "name": "Death of Imam Hasan al-Askari",
+          "arabicName": "وفاة الإمام الحسن العسكري",
+          "description": "Commemoration of the passing of Imam Hasan al-Askari",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Reflection", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Studying Prophet's (PBUH) life", "Charity", "Community service", "Reciting Quran", "Learning about Imams"]
+    },
+    {
+      "number": 4,
+      "name": "Rabi' al-Thani",
+      "arabicName": "رَبِيع الثَّانِي",
+      "description": "The fourth month of the Islamic calendar, also known as Rabi' al-Akhir.",
+      "days": 29,
+      "significance": "Regular month",
+      "significantEvents": [
+        {
+          "day": 8,
+          "name": "Birth of Imam Hasan al-Askari",
+          "arabicName": "مولد الإمام الحسن العسكري",
+          "description": "Birth of Imam Hasan al-Askari, the 11th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 10,
+          "name": "Death of Imam Hasan al-Askari",
+          "arabicName": "وفاة الإمام الحسن العسكري",
+          "description": "Commemoration of the passing of Imam Hasan al-Askari",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Reflection on his life", "Charity"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Learning about Islamic history", "Charity", "Reflection", "Studying Imam's lives"]
+    },
+    {
+      "number": 5,
+      "name": "Jumada al-Awwal",
+      "arabicName": "جُمَادَى الأَوَّل",
+      "description": "The fifth month of the Islamic calendar. 'Jumada' means 'freezing' in Arabic.",
+      "days": 30,
+      "significance": "Regular month",
+      "significantEvents": [
+        {
+          "day": 5,
+          "name": "Birth of Zainab bint Ali",
+          "arabicName": "مولد زينب بنت علي",
+          "description": "Birth of Zainab, the daughter of Imam Ali and sister of Imam Hussain",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about her life", "Charity", "Reflection on her courage"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Fatima al-Zahra",
+          "arabicName": "مولد فاطمة الزهراء",
+          "description": "Birth of Fatima, the daughter of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about her life", "Charity", "Reflection on her virtues"]
+        },
+        {
+          "day": 13,
+          "name": "Birth of Imam Ali",
+          "arabicName": "مولد الإمام علي",
+          "description": "Birth of Imam Ali ibn Abi Talib, the cousin and son-in-law of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Reflection on his wisdom"]
+        },
+        {
+          "day": 25,
+          "name": "Martyrdom of Imam Ali",
+          "arabicName": "استشهاد الإمام علي",
+          "description": "Commemoration of the martyrdom of Imam Ali",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Commemoration", "Reflection", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Learning about Islamic history", "Charity", "Reflection on family values", "Studying women's role in Islam"]
+    },
+    {
+      "number": 6,
+      "name": "Jumada al-Thani",
+      "arabicName": "جُمَادَى الثَّانِي",
+      "description": "The sixth month of the Islamic calendar, also known as Jumada al-Akhirah.",
+      "days": 29,
+      "significance": "Regular month",
+      "significantEvents": [
+        {
+          "day": 3,
+          "name": "Death of Fatima al-Zahra",
+          "arabicName": "وفاة فاطمة الزهراء",
+          "description": "Commemoration of the passing of Fatima, the daughter of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Reflection on her life", "Charity", "Learning about her virtues"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Imam Ali",
+          "arabicName": "مولد الإمام علي",
+          "description": "Birth of Imam Ali ibn Abi Talib, the cousin and son-in-law of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Reflection on his virtues"]
+        },
+        {
+          "day": 10,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Learning about Islamic history", "Charity", "Reflection on family values", "Studying Imam Ali's life"]
+    },
+    {
+      "number": 7,
+      "name": "Rajab",
+      "arabicName": "رَجَب",
+      "description": "The seventh month, one of the four sacred months in Islam. 'Rajab' means 'respect' or 'honor'.",
+      "days": 30,
+      "significance": "Sacred month - warfare is prohibited",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Beginning of Rajab",
+          "arabicName": "بداية رجب",
+          "description": "Beginning of the sacred month of Rajab",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Increased worship", "Charity", "Reflection on sacredness", "Avoiding warfare"]
+        },
+        {
+          "day": 13,
+          "name": "Birth of Imam Ali",
+          "arabicName": "مولد الإمام علي",
+          "description": "Birth of Imam Ali ibn Abi Talib, the cousin and son-in-law of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Reflection on his virtues"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Mahdi",
+          "arabicName": "مولد الإمام المهدي",
+          "description": "Birth of Imam Mahdi, the awaited savior",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Prayers for his appearance", "Charity"]
+        },
+        {
+          "day": 27,
+          "name": "Isra and Mi'raj",
+          "arabicName": "الإسراء والمعراج",
+          "description": "The Night Journey and Ascension of Prophet Muhammad (PBUH) from Mecca to Jerusalem and then to the heavens",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Night prayer", "Reflection on the journey", "Storytelling", "Charity", "Increased worship"]
+        },
+        {
+          "day": 3,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 10,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Imam Ali al-Ridha",
+          "arabicName": "مولد الإمام علي الرضا",
+          "description": "Birth of Imam Ali al-Ridha, the 8th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Fasting (recommended)", "Night prayers", "Charity", "Avoiding warfare", "Reflection", "Increased worship"]
+    },
+    {
+      "number": 8,
+      "name": "Sha'ban",
+      "arabicName": "شَعْبَان",
+      "description": "The eighth month, known for the Night of Bara'ah (Laylat al-Bara'ah). 'Sha'ban' means 'separation'.",
+      "days": 29,
+      "significance": "Month of preparation for Ramadan",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Beginning of Sha'ban",
+          "arabicName": "بداية شعبان",
+          "description": "Beginning of the month of preparation for Ramadan",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Preparation for Ramadan", "Increased worship", "Charity", "Reflection"]
+        },
+        {
+          "day": 3,
+          "name": "Birth of Imam Hussain",
+          "arabicName": "مولد الإمام الحسين",
+          "description": "Birth of Imam Hussain ibn Ali, the grandson of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Reflection on his sacrifice"]
+        },
+        {
+          "day": 4,
+          "name": "Birth of Imam Zain al-Abidin",
+          "arabicName": "مولد الإمام زين العابدين",
+          "description": "Birth of Imam Zain al-Abidin, the 4th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 5,
+          "name": "Birth of Imam Ali al-Ridha",
+          "arabicName": "مولد الإمام علي الرضا",
+          "description": "Birth of Imam Ali al-Ridha, the 8th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 7,
+          "name": "Birth of Imam Musa al-Kadhim",
+          "arabicName": "مولد الإمام موسى الكاظم",
+          "description": "Birth of Imam Musa al-Kadhim, the 7th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 15,
+          "name": "Laylat al-Bara'ah",
+          "arabicName": "ليلة البراءة",
+          "description": "The Night of Forgiveness, when Allah forgives sins and determines the fate of people for the coming year",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Night prayer", "Seeking forgiveness", "Charity", "Visiting graves", "Fasting the next day"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Mahdi",
+          "arabicName": "مولد الإمام المهدي",
+          "description": "Birth of Imam Mahdi, the awaited savior",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Prayers for his appearance", "Charity"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 25,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Night prayers", "Seeking forgiveness", "Charity", "Fasting", "Preparation for Ramadan", "Increased worship"]
+    },
+    {
+      "number": 9,
+      "name": "Ramadan",
+      "arabicName": "رَمَضَان",
+      "description": "The ninth month, the month of fasting. 'Ramadan' means 'scorching heat' or 'parched thirst'.",
+      "days": 30,
+      "significance": "The most sacred month - month of fasting",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Beginning of Ramadan",
+          "arabicName": "بداية رمضان",
+          "description": "The start of the holy month of fasting",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Fasting", "Increased prayers", "Quran recitation", "Charity", "Taraweeh prayers"]
+        },
+        {
+          "day": 1,
+          "name": "First Revelation",
+          "arabicName": "أول نزول الوحي",
+          "description": "Commemoration of the first revelation of the Quran to Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Quran recitation", "Reflection on revelation", "Charity", "Learning about Quran"]
+        },
+        {
+          "day": 10,
+          "name": "Death of Khadijah",
+          "arabicName": "وفاة خديجة",
+          "description": "Commemoration of the passing of Khadijah, the first wife of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Reflection on her life", "Charity", "Learning about her virtues"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Hasan",
+          "arabicName": "مولد الإمام الحسن",
+          "description": "Birth of Imam Hasan ibn Ali, the grandson of Prophet Muhammad (PBUH)",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 19,
+          "name": "Night of Power (Laylat al-Qadr)",
+          "arabicName": "ليلة القدر",
+          "description": "The Night of Power, when the Quran was first revealed. It is better than a thousand months.",
+          "type": "religious",
+          "importance": "highest",
+          "traditions": ["Night prayer", "Quran recitation", "Supplications", "Charity", "Seeking forgiveness"]
+        },
+        {
+          "day": 21,
+          "name": "Night of Power (Laylat al-Qadr)",
+          "arabicName": "ليلة القدر",
+          "description": "The Night of Power, when the Quran was first revealed. It is better than a thousand months.",
+          "type": "religious",
+          "importance": "highest",
+          "traditions": ["Night prayer", "Quran recitation", "Supplications", "Charity", "Seeking forgiveness"]
+        },
+        {
+          "day": 23,
+          "name": "Night of Power (Laylat al-Qadr)",
+          "arabicName": "ليلة القدر",
+          "description": "The Night of Power, when the Quran was first revealed. It is better than a thousand months.",
+          "type": "religious",
+          "importance": "highest",
+          "traditions": ["Night prayer", "Quran recitation", "Supplications", "Charity", "Seeking forgiveness"]
+        },
+        {
+          "day": 25,
+          "name": "Night of Power (Laylat al-Qadr)",
+          "arabicName": "ليلة القدر",
+          "description": "The Night of Power, when the Quran was first revealed. It is better than a thousand months.",
+          "type": "religious",
+          "importance": "highest",
+          "traditions": ["Night prayer", "Quran recitation", "Supplications", "Charity", "Seeking forgiveness"]
+        },
+        {
+          "day": 27,
+          "name": "Night of Power (Laylat al-Qadr)",
+          "arabicName": "ليلة القدر",
+          "description": "The Night of Power, when the Quran was first revealed. It is better than a thousand months.",
+          "type": "religious",
+          "importance": "highest",
+          "traditions": ["Night prayer", "Quran recitation", "Supplications", "Charity", "Seeking forgiveness"]
+        },
+        {
+          "day": 5,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 12,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 17,
+          "name": "Battle of Badr",
+          "arabicName": "معركة بدر",
+          "description": "Commemoration of the Battle of Badr, the first major battle in Islamic history",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Learning about Islamic history", "Reflection on divine assistance", "Charity"]
+        }
+      ],
+      "recommendedActs": ["Fasting", "Taraweeh prayers", "Quran recitation", "Charity", "Night prayers", "Seeking forgiveness", "Increased worship"]
+    },
+    {
+      "number": 10,
+      "name": "Shawwal",
+      "arabicName": "شَوَّال",
+      "description": "The tenth month, following Ramadan. 'Shawwal' means 'raised' or 'elevated'.",
+      "days": 29,
+      "significance": "Month of Eid al-Fitr",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Eid al-Fitr",
+          "arabicName": "عيد الفطر",
+          "description": "Festival of Breaking the Fast, marking the end of Ramadan",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Eid prayer", "Gift giving", "Family gatherings", "Special meals", "Charity (Zakat al-Fitr)"]
+        },
+        {
+          "day": 6,
+          "name": "Battle of Uhud",
+          "arabicName": "غزوة أحد",
+          "description": "Commemoration of the Battle of Uhud",
+          "type": "historical",
+          "importance": "medium",
+          "traditions": ["Learning about Islamic history", "Reflection on lessons", "Charity"]
+        },
+        {
+          "day": 25,
+          "name": "Battle of the Trench",
+          "arabicName": "غزوة الخندق",
+          "description": "Commemoration of the Battle of the Trench (Khandaq)",
+          "type": "historical",
+          "importance": "medium",
+          "traditions": ["Learning about Islamic history", "Reflection on lessons", "Charity"]
+        },
+        {
+          "day": 10,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Eid celebrations", "Charity", "Family gatherings", "Reflection on Ramadan", "Learning about Islamic history"]
+    },
+    {
+      "number": 11,
+      "name": "Dhu al-Qi'dah",
+      "arabicName": "ذُو القِعْدَة",
+      "description": "The eleventh month, one of the four sacred months. 'Dhu al-Qi'dah' means 'the one of truce'.",
+      "days": 30,
+      "significance": "Sacred month - warfare is prohibited",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Sacred Month Begins",
+          "arabicName": "بداية الشهر الحرام",
+          "description": "Beginning of one of the four sacred months",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Reflection on sacredness", "Avoiding warfare", "Increased worship"]
+        },
+        {
+          "day": 11,
+          "name": "Birth of Imam Ali al-Ridha",
+          "arabicName": "مولد الإمام علي الرضا",
+          "description": "Birth of Imam Ali al-Ridha, the 8th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 29,
+          "name": "Birth of Imam Mahdi",
+          "arabicName": "مولد الإمام المهدي",
+          "description": "Birth of Imam Mahdi, the awaited savior",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Prayers for his appearance", "Charity"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Avoiding warfare", "Increased worship", "Charity", "Reflection on sacredness", "Learning about Imams"]
+    },
+    {
+      "number": 12,
+      "name": "Dhu al-Hijjah",
+      "arabicName": "ذُو الحِجَّة",
+      "description": "The twelfth month, the month of Hajj pilgrimage. 'Dhu al-Hijjah' means 'the one of pilgrimage'.",
+      "days": 29,
+      "significance": "Month of Hajj pilgrimage",
+      "significantEvents": [
+        {
+          "day": 1,
+          "name": "Beginning of Dhu al-Hijjah",
+          "arabicName": "بداية ذو الحجة",
+          "description": "Beginning of the month of Hajj pilgrimage",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Preparation for Hajj", "Increased worship", "Charity", "Reflection on pilgrimage"]
+        },
+        {
+          "day": 7,
+          "name": "Birth of Imam al-Baqir",
+          "arabicName": "مولد الإمام الباقر",
+          "description": "Birth of Imam Muhammad al-Baqir, the 5th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity"]
+        },
+        {
+          "day": 8,
+          "name": "Day of Tarwiyah",
+          "arabicName": "يوم التروية",
+          "description": "The day pilgrims go to Mina",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Hajj rituals", "Prayers for pilgrims", "Charity"]
+        },
+        {
+          "day": 9,
+          "name": "Day of Arafah",
+          "arabicName": "يوم عرفة",
+          "description": "The day of standing at Mount Arafat during Hajj",
+          "type": "religious",
+          "importance": "highest",
+          "traditions": ["Fasting (for non-pilgrims)", "Supplications", "Repentance", "Hajj rituals", "Charity"]
+        },
+        {
+          "day": 10,
+          "name": "Eid al-Adha",
+          "arabicName": "عيد الأضحى",
+          "description": "Festival of Sacrifice, commemorating Prophet Ibrahim's (PBUH) willingness to sacrifice his son",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Eid prayer", "Animal sacrifice", "Charity", "Family gatherings", "Special meals"]
+        },
+        {
+          "day": 11,
+          "name": "Days of Tashreeq",
+          "arabicName": "أيام التشريق",
+          "description": "The three days following Eid al-Adha",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Continued celebration", "Charity", "Family gatherings"]
+        },
+        {
+          "day": 12,
+          "name": "Days of Tashreeq",
+          "arabicName": "أيام التشريق",
+          "description": "The three days following Eid al-Adha",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Continued celebration", "Charity", "Family gatherings"]
+        },
+        {
+          "day": 13,
+          "name": "Days of Tashreeq",
+          "arabicName": "أيام التشريق",
+          "description": "The three days following Eid al-Adha",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Continued celebration", "Charity", "Family gatherings"]
+        },
+        {
+          "day": 18,
+          "name": "Eid al-Ghadeer",
+          "arabicName": "عيد الغدير",
+          "description": "Commemoration of the event of Ghadeer Khumm",
+          "type": "religious",
+          "importance": "high",
+          "traditions": ["Commemoration", "Learning about the event", "Charity", "Reflection"]
+        },
+        {
+          "day": 15,
+          "name": "Birth of Imam Ali al-Hadi",
+          "arabicName": "مولد الإمام علي الهادي",
+          "description": "Birth of Imam Ali al-Hadi, the 10th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 20,
+          "name": "Birth of Imam Muhammad al-Taqi",
+          "arabicName": "مولد الإمام محمد التقي",
+          "description": "Birth of Imam Muhammad al-Taqi, the 9th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        },
+        {
+          "day": 25,
+          "name": "Birth of Imam Ali al-Ridha",
+          "arabicName": "مولد الإمام علي الرضا",
+          "description": "Birth of Imam Ali al-Ridha, the 8th Imam",
+          "type": "religious",
+          "importance": "medium",
+          "traditions": ["Commemoration", "Learning about his life", "Charity", "Prayer"]
+        }
+      ],
+      "recommendedActs": ["Hajj (for those able)", "Fasting on Day of Arafah", "Eid celebrations", "Charity", "Animal sacrifice", "Learning about Islamic history"]
+    }
+  ],
+  "sacredMonths": [1, 7, 11, 12],
+  "specialDays": {
+    "weekly": [
+      {
+        "day": "Monday",
+        "arabicName": "الاثنين",
+        "significance": "Day of Prophet's (PBUH) birth and death",
+        "traditions": ["Fasting (recommended)", "Increased worship", "Charity", "Reflection on Prophet's (PBUH) life"]
+      },
+      {
+        "day": "Thursday",
+        "arabicName": "الخميس",
+        "significance": "Day of good deeds being presented to Allah",
+        "traditions": ["Fasting (recommended)", "Increased worship", "Charity", "Good deeds"]
+      },
+      {
+        "day": "Friday",
+        "arabicName": "الجمعة",
+        "significance": "The best day of the week",
+        "traditions": ["Friday prayer", "Increased worship", "Charity", "Reading Surah Al-Kahf", "Bathing", "Wearing clean clothes"]
+      }
+    ],
+    "monthly": [
+      {
+        "days": [13, 14, 15],
+        "name": "White Days",
+        "arabicName": "الأيام البيض",
+        "significance": "Recommended days for fasting",
+        "traditions": ["Fasting", "Increased worship", "Charity", "Reflection"]
+      }
+    ]
+  },
+  "generalEvents": [
+    {
+      "name": "Weekly Friday Prayer",
+      "arabicName": "صلاة الجمعة",
+      "description": "The congregational Friday prayer",
+      "type": "religious",
+      "importance": "high",
+      "frequency": "weekly",
+      "traditions": ["Friday prayer", "Khutbah", "Community gathering", "Charity"]
+    },
+    {
+      "name": "Daily Prayers",
+      "arabicName": "الصلوات اليومية",
+      "description": "The five daily prayers",
+      "type": "religious",
+      "importance": "highest",
+      "frequency": "daily",
+      "traditions": ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha prayers"]
+    },
+    {
+      "name": "Night Prayers",
+      "arabicName": "صلاة الليل",
+      "description": "Voluntary night prayers",
+      "type": "religious",
+      "importance": "high",
+      "frequency": "daily",
+      "traditions": ["Tahajjud", "Qiyam al-Layl", "Supplications", "Quran recitation"]
+    }
+  ]
+}

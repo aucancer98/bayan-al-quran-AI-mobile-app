@@ -1,0 +1,191 @@
+{
+  "quranRecitations": {
+    "reciters": [
+      {
+        "id": "1",
+        "name": "Abdul Rahman Al-Sudais",
+        "arabicName": "عبد الرحمن السديس",
+        "country": "Saudi Arabia",
+        "style": "Traditional",
+        "description": "Imam of the Grand Mosque in Makkah, known for his beautiful and emotional recitation",
+        "popularity": "very_high",
+        "audioQuality": "excellent"
+      },
+      {
+        "id": "2",
+        "name": "Mishary Rashid Alafasy",
+        "arabicName": "مشاري راشد العفاسي",
+        "country": "Kuwait",
+        "style": "Modern",
+        "description": "Popular reciter known for his clear pronunciation and modern style",
+        "popularity": "very_high",
+        "audioQuality": "excellent"
+      },
+      {
+        "id": "3",
+        "name": "Saad Al-Ghamdi",
+        "arabicName": "سعد الغامدي",
+        "country": "Saudi Arabia",
+        "style": "Traditional",
+        "description": "Renowned reciter with a melodious voice and traditional style",
+        "popularity": "high",
+        "audioQuality": "excellent"
+      },
+      {
+        "id": "4",
+        "name": "Abdul Basit Abdul Samad",
+        "arabicName": "عبد الباسط عبد الصمد",
+        "country": "Egypt",
+        "style": "Classical",
+        "description": "Legendary reciter known for his powerful voice and classical style",
+        "popularity": "very_high",
+        "audioQuality": "good"
+      },
+      {
+        "id": "5",
+        "name": "Muhammad Siddiq Al-Minshawi",
+        "arabicName": "محمد صديق المنشاوي",
+        "country": "Egypt",
+        "style": "Classical",
+        "description": "Famous Egyptian reciter with a distinctive style and emotional delivery",
+        "popularity": "high",
+        "audioQuality": "good"
+      }
+    ],
+    "recitationTypes": [
+      {
+        "type": "Murattal",
+        "description": "Slow, clear recitation with proper pronunciation and tajweed",
+        "useCase": "Learning and study"
+      },
+      {
+        "type": "Muallim",
+        "description": "Very slow recitation for learning purposes",
+        "useCase": "Beginners and learning"
+      },
+      {
+        "type": "Mujawwad",
+        "description": "Melodious recitation with musical tones",
+        "useCase": "Listening and enjoyment"
+      }
+    ],
+    "audioFormats": [
+      {
+        "format": "MP3",
+        "quality": "High",
+        "fileSize": "Medium",
+        "compatibility": "Universal"
+      },
+      {
+        "format": "AAC",
+        "quality": "High",
+        "fileSize": "Small",
+        "compatibility": "iOS/Android"
+      },
+      {
+        "format": "OGG",
+        "quality": "High",
+        "fileSize": "Small",
+        "compatibility": "Android"
+      }
+    ]
+  },
+  "supplicationAudio": {
+    "reciters": [
+      {
+        "id": "1",
+        "name": "Abdul Rahman Al-Sudais",
+        "specialty": "Daily Adhkar",
+        "style": "Traditional"
+      },
+      {
+        "id": "2",
+        "name": "Mishary Rashid Alafasy",
+        "specialty": "Prayer Supplications",
+        "style": "Modern"
+      }
+    ],
+    "categories": [
+      {
+        "category": "Morning Adhkar",
+        "audioAvailable": true,
+        "duration": "15-20 minutes",
+        "reciter": "Abdul Rahman Al-Sudais"
+      },
+      {
+        "category": "Evening Adhkar",
+        "audioAvailable": true,
+        "duration": "15-20 minutes",
+        "reciter": "Abdul Rahman Al-Sudais"
+      },
+      {
+        "category": "Prayer Supplications",
+        "audioAvailable": true,
+        "duration": "10-15 minutes",
+        "reciter": "Mishary Rashid Alafasy"
+      }
+    ]
+  },
+  "audioSources": {
+    "primary": {
+      "name": "Quran.com API",
+      "description": "High-quality audio from multiple reciters",
+      "reliability": "high",
+      "updateFrequency": "regular"
+    },
+    "secondary": {
+      "name": "EveryAyah.com",
+      "description": "Alternative source for Quranic audio",
+      "reliability": "high",
+      "updateFrequency": "regular"
+    },
+    "supplications": {
+      "name": "Islamic Audio Library",
+      "description": "Collection of supplication audio",
+      "reliability": "medium",
+      "updateFrequency": "occasional"
+    }
+  },
+  "playbackFeatures": {
+    "repeat": {
+      "single": "Repeat current ayah/supplication",
+      "range": "Repeat selected range",
+      "continuous": "Repeat entire surah/category"
+    },
+    "speed": {
+      "slow": "0.5x speed for learning",
+      "normal": "1x normal speed",
+      "fast": "1.5x speed for review"
+    },
+    "bookmark": {
+      "ayah": "Bookmark specific ayahs",
+      "supplication": "Bookmark favorite supplications",
+      "position": "Remember playback position"
+    }
+  },
+  "offlineSupport": {
+    "downloadable": true,
+    "storageRequirements": {
+      "fullQuran": "2-3 GB",
+      "selectedSurahs": "100-500 MB",
+      "supplications": "50-100 MB"
+    },
+    "qualityOptions": [
+      {
+        "quality": "High",
+        "bitrate": "128 kbps",
+        "fileSize": "Large"
+      },
+      {
+        "quality": "Medium",
+        "bitrate": "64 kbps",
+        "fileSize": "Medium"
+      },
+      {
+        "quality": "Low",
+        "bitrate": "32 kbps",
+        "fileSize": "Small"
+      }
+    ]
+  }
+}

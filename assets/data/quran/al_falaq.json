@@ -1,0 +1,456 @@
+{
+  "surahNumber": 113,
+  "surahName": "Al-Falaq",
+  "description": "The Daybreak - Seeking refuge from evil",
+  "ayahs": [
+    {
+      "surahNumber": 113,
+      "ayahNumber": 1,
+      "arabicText": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "transliteration": "qul",
+          "root": "ق و ل",
+          "meaning": "Say",
+          "contextualMeaning": "Say (O Muhammad PBUH)",
+          "position": 1,
+          "relatedWords": ["قول", "قال", "مقول"],
+          "partOfSpeech": "verb",
+          "grammar": "imperative, second person",
+          "morphology": "قل",
+          "frequency": "Very High - common command to Prophet Muhammad PBUH"
+        },
+        {
+          "arabic": "أَعُوذُ",
+          "transliteration": "a'oodhu",
+          "root": "ع و ذ",
+          "meaning": "I seek refuge",
+          "contextualMeaning": "I seek refuge and protection",
+          "position": 2,
+          "relatedWords": ["عوذ", "استعاذة", "معاذ"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, first person, singular",
+          "morphology": "أ + عوذ",
+          "frequency": "High - seeking divine protection"
+        },
+        {
+          "arabic": "بِرَبِّ",
+          "transliteration": "bi-Rabb",
+          "root": "ر ب ب",
+          "meaning": "with the Lord",
+          "contextualMeaning": "with the Lord and Master",
+          "position": 3,
+          "relatedWords": ["ربوبية", "مربوب", "تربية"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive",
+          "morphology": "ب + رب",
+          "frequency": "Very High - one of Allah's primary attributes"
+        },
+        {
+          "arabic": "الْفَلَقِ",
+          "transliteration": "al-falaq",
+          "root": "ف ل ق",
+          "meaning": "the daybreak",
+          "contextualMeaning": "the daybreak, the dawn",
+          "position": 4,
+          "relatedWords": ["فلق", "انفلاق", "مفلق"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite",
+          "morphology": "ال + فلق",
+          "frequency": "Low - unique to this surah"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Say, \"I seek refuge in the Lord of daybreak",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Say: I seek refuge with the Lord of the Dawn",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "Say: \"I seek refuge with the Sustainer of the rising dawn,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 113,
+      "ayahNumber": 2,
+      "arabicText": "مِن شَرِّ مَا خَلَقَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "مِن",
+          "transliteration": "min",
+          "root": "م ن",
+          "meaning": "from",
+          "contextualMeaning": "from",
+          "position": 1,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "من",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "root": "ش ر ر",
+          "meaning": "evil",
+          "contextualMeaning": "evil, harm, wickedness",
+          "position": 2,
+          "relatedWords": ["شر", "شرير", "أشرار"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "شر",
+          "frequency": "High - opposite of good"
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "ma",
+          "root": "م ا",
+          "meaning": "what",
+          "contextualMeaning": "what, that which",
+          "position": 3,
+          "relatedWords": ["ما", "ماذا", "أما"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "genitive",
+          "morphology": "ما",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "خَلَقَ",
+          "transliteration": "khalaqa",
+          "root": "خ ل ق",
+          "meaning": "He created",
+          "contextualMeaning": "He created and brought into being",
+          "position": 4,
+          "relatedWords": ["خلق", "خالق", "مخلوق"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, singular",
+          "morphology": "خلق",
+          "frequency": "Very High - divine creation"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "From the evil of that which He created",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "From the mischief of created things;",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "from the evil of aught that He has created,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 113,
+      "ayahNumber": 3,
+      "arabicText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَمِن",
+          "transliteration": "wa min",
+          "root": "م ن",
+          "meaning": "and from",
+          "contextualMeaning": "and from",
+          "position": 1,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "conjunction + preposition",
+          "grammar": "coordinating + genitive",
+          "morphology": "و + من",
+          "frequency": "Very High - common conjunction with preposition"
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "root": "ش ر ر",
+          "meaning": "evil",
+          "contextualMeaning": "evil, harm, wickedness",
+          "position": 2,
+          "relatedWords": ["شر", "شرير", "أشرار"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "شر",
+          "frequency": "High - opposite of good"
+        },
+        {
+          "arabic": "غَاسِقٍ",
+          "transliteration": "ghasiqin",
+          "root": "غ س ق",
+          "meaning": "darkness",
+          "contextualMeaning": "darkness, night",
+          "position": 3,
+          "relatedWords": ["غسق", "غاسق", "مغسق"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "غاسق",
+          "frequency": "Low - specific to night darkness"
+        },
+        {
+          "arabic": "إِذَا",
+          "transliteration": "itha",
+          "root": "إ ذ ا",
+          "meaning": "when",
+          "contextualMeaning": "when, at the time when",
+          "position": 4,
+          "relatedWords": ["إذا", "إذ", "إذن"],
+          "partOfSpeech": "conditional particle",
+          "grammar": "conditional",
+          "morphology": "إذا",
+          "frequency": "Very High - common conditional particle"
+        },
+        {
+          "arabic": "وَقَبَ",
+          "transliteration": "waqab",
+          "root": "و ق ب",
+          "meaning": "it enters",
+          "contextualMeaning": "it enters, it spreads",
+          "position": 5,
+          "relatedWords": ["وقب", "وقوب", "موقوب"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, singular",
+          "morphology": "وقب",
+          "frequency": "Low - specific to darkness spreading"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "And from the evil of darkness when it settles",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "From the mischief of Darkness as it overspreads;",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and from the evil of the night when it grows dark,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 113,
+      "ayahNumber": 4,
+      "arabicText": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَمِن",
+          "transliteration": "wa min",
+          "root": "م ن",
+          "meaning": "and from",
+          "contextualMeaning": "and from",
+          "position": 1,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "conjunction + preposition",
+          "grammar": "coordinating + genitive",
+          "morphology": "و + من",
+          "frequency": "Very High - common conjunction with preposition"
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "root": "ش ر ر",
+          "meaning": "evil",
+          "contextualMeaning": "evil, harm, wickedness",
+          "position": 2,
+          "relatedWords": ["شر", "شرير", "أشرار"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "شر",
+          "frequency": "High - opposite of good"
+        },
+        {
+          "arabic": "النَّفَّاثَاتِ",
+          "transliteration": "an-naffathat",
+          "root": "ن ف ث",
+          "meaning": "the blowers",
+          "contextualMeaning": "those who blow (on knots for magic)",
+          "position": 3,
+          "relatedWords": ["نفث", "نافث", "منفوث"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural, feminine",
+          "morphology": "ال + نفاثات",
+          "frequency": "Low - specific to magic practitioners"
+        },
+        {
+          "arabic": "فِي",
+          "transliteration": "fee",
+          "root": "ف ي ي",
+          "meaning": "in",
+          "contextualMeaning": "in, within",
+          "position": 4,
+          "relatedWords": ["في", "داخل", "ضمن"],
+          "partOfSpeech": "preposition",
+          "grammar": "genitive",
+          "morphology": "في",
+          "frequency": "Very High - common preposition"
+        },
+        {
+          "arabic": "الْعُقَدِ",
+          "transliteration": "al-uqad",
+          "root": "ع ق د",
+          "meaning": "the knots",
+          "contextualMeaning": "the knots (used in magic)",
+          "position": 5,
+          "relatedWords": ["عقد", "عقود", "معقود"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, definite, plural",
+          "morphology": "ال + عقد",
+          "frequency": "Medium - knots used in magic"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "And from the evil of the blowers in knots",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "From the mischief of those who practise secret arts;",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and from the evil of all human beings bent on occult endeavours,",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 113,
+      "ayahNumber": 5,
+      "arabicText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "juz": 30,
+      "hizb": 60,
+      "rub": 240,
+      "words": [
+        {
+          "arabic": "وَمِن",
+          "transliteration": "wa min",
+          "root": "م ن",
+          "meaning": "and from",
+          "contextualMeaning": "and from",
+          "position": 1,
+          "relatedWords": ["من", "منا", "منهم"],
+          "partOfSpeech": "conjunction + preposition",
+          "grammar": "coordinating + genitive",
+          "morphology": "و + من",
+          "frequency": "Very High - common conjunction with preposition"
+        },
+        {
+          "arabic": "شَرِّ",
+          "transliteration": "sharri",
+          "root": "ش ر ر",
+          "meaning": "evil",
+          "contextualMeaning": "evil, harm, wickedness",
+          "position": 2,
+          "relatedWords": ["شر", "شرير", "أشرار"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive",
+          "morphology": "شر",
+          "frequency": "High - opposite of good"
+        },
+        {
+          "arabic": "حَاسِدٍ",
+          "transliteration": "hasidin",
+          "root": "ح س د",
+          "meaning": "envious",
+          "contextualMeaning": "envious, jealous person",
+          "position": 3,
+          "relatedWords": ["حسد", "حاسد", "محسود"],
+          "partOfSpeech": "noun",
+          "grammar": "genitive, indefinite",
+          "morphology": "حاسد",
+          "frequency": "Medium - one who feels envy"
+        },
+        {
+          "arabic": "إِذَا",
+          "transliteration": "itha",
+          "root": "إ ذ ا",
+          "meaning": "when",
+          "contextualMeaning": "when, at the time when",
+          "position": 4,
+          "relatedWords": ["إذا", "إذ", "إذن"],
+          "partOfSpeech": "conditional particle",
+          "grammar": "conditional",
+          "morphology": "إذا",
+          "frequency": "Very High - common conditional particle"
+        },
+        {
+          "arabic": "حَسَدَ",
+          "transliteration": "hasad",
+          "root": "ح س د",
+          "meaning": "he envies",
+          "contextualMeaning": "he envies, he feels jealousy",
+          "position": 5,
+          "relatedWords": ["حسد", "حاسد", "محسود"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, third person, masculine, singular",
+          "morphology": "حسد",
+          "frequency": "Medium - act of envying"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "And from the evil of an envier when he envies.\"",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "From the mischief of the envious one as he practises envy.\"",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "and from the evil of the envious when they give way to envy.\"",
+          "source": "The Message of the Quran"
+        }
+      ]
+    }
+  ]
+}

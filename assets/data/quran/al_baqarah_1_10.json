@@ -1,0 +1,294 @@
+{
+  "surahNumber": 2,
+  "surahName": "Al-Baqarah",
+  "description": "The Cow - The longest chapter of the Quran with 286 verses",
+  "ayahs": [
+    {
+      "surahNumber": 2,
+      "ayahNumber": 1,
+      "arabicText": "الم",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "الم",
+          "transliteration": "Alif Lam Mim",
+          "root": "أ ل م",
+          "meaning": "Alif Lam Mim (Mysterious letters)",
+          "contextualMeaning": "These are the mysterious letters that appear at the beginning of certain surahs",
+          "position": 1,
+          "relatedWords": ["حروف مقطعة", "أحرف القرآن"],
+          "partOfSpeech": "mysterious letters",
+          "grammar": "disconnected letters",
+          "morphology": "أ + ل + م",
+          "frequency": "Appears at the beginning of 6 surahs",
+          "significance": "Only Allah knows their exact meaning"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Alif, Lam, Mim.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Alif, Lam, Mim.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 2,
+      "arabicText": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "ذَٰلِكَ",
+          "transliteration": "dhalika",
+          "root": "ذ ل ك",
+          "meaning": "That",
+          "contextualMeaning": "That book (referring to the Quran)",
+          "position": 1,
+          "relatedWords": ["ذلك", "تلك", "هذا"],
+          "partOfSpeech": "demonstrative pronoun",
+          "grammar": "masculine, singular",
+          "morphology": "ذا + ل + ك",
+          "frequency": "Very High - common demonstrative pronoun"
+        },
+        {
+          "arabic": "الْكِتَابُ",
+          "transliteration": "al-kitabu",
+          "root": "ك ت ب",
+          "meaning": "the book",
+          "contextualMeaning": "the Quran, the divine book",
+          "position": 2,
+          "relatedWords": ["كتاب", "كتب", "مكتوب"],
+          "partOfSpeech": "noun",
+          "grammar": "nominative, definite",
+          "morphology": "ال + كتاب",
+          "frequency": "High - refers to the Quran"
+        },
+        {
+          "arabic": "لَا",
+          "transliteration": "la",
+          "root": "ل ا",
+          "meaning": "no",
+          "contextualMeaning": "no, not",
+          "position": 3,
+          "relatedWords": ["لا", "ليس", "غير"],
+          "partOfSpeech": "negation particle",
+          "grammar": "negation",
+          "morphology": "لا",
+          "frequency": "Very High - common negation"
+        },
+        {
+          "arabic": "رَيْبَ",
+          "transliteration": "rayba",
+          "root": "ر ي ب",
+          "meaning": "doubt",
+          "contextualMeaning": "doubt, uncertainty",
+          "position": 4,
+          "relatedWords": ["ريب", "شك", "تردد"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative",
+          "morphology": "ريب",
+          "frequency": "Medium - doubt or uncertainty"
+        },
+        {
+          "arabic": "فِيهِ",
+          "transliteration": "feehi",
+          "root": "ف ي ي",
+          "meaning": "in it",
+          "contextualMeaning": "in it (the book)",
+          "position": 5,
+          "relatedWords": ["في", "داخل", "ضمن"],
+          "partOfSpeech": "preposition + pronoun",
+          "grammar": "genitive",
+          "morphology": "في + ه",
+          "frequency": "Very High - common prepositional phrase"
+        },
+        {
+          "arabic": "هُدًى",
+          "transliteration": "hudan",
+          "root": "ه د ي",
+          "meaning": "guidance",
+          "contextualMeaning": "guidance, direction",
+          "position": 6,
+          "relatedWords": ["هدى", "هداية", "مهدي"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, indefinite",
+          "morphology": "هدى",
+          "frequency": "High - divine guidance"
+        },
+        {
+          "arabic": "لِّلْمُتَّقِينَ",
+          "transliteration": "lil-muttaqeen",
+          "root": "و ق ي",
+          "meaning": "for the God-conscious",
+          "contextualMeaning": "for those who are conscious of Allah",
+          "position": 7,
+          "relatedWords": ["تقوى", "متقون", "وقاية"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, plural",
+          "morphology": "ل + ال + متقين",
+          "frequency": "High - the God-conscious people"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "This is the Book about which there is no doubt, a guidance for those conscious of Allah.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "This is the Book; in it is guidance sure, without doubt, to those who fear Allah.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        },
+        {
+          "translator": "Muhammad Asad",
+          "language": "English",
+          "text": "This divine writ - let there be no doubt about it - is [meant to be] a guidance for all the God-conscious.",
+          "source": "The Message of the Quran"
+        }
+      ]
+    },
+    {
+      "surahNumber": 2,
+      "ayahNumber": 3,
+      "arabicText": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+      "juz": 1,
+      "hizb": 1,
+      "rub": 1,
+      "words": [
+        {
+          "arabic": "الَّذِينَ",
+          "transliteration": "alladheena",
+          "root": "ل ذ ي",
+          "meaning": "those who",
+          "contextualMeaning": "those who (the God-conscious)",
+          "position": 1,
+          "relatedWords": ["الذي", "التي", "اللذان"],
+          "partOfSpeech": "relative pronoun",
+          "grammar": "nominative, plural",
+          "morphology": "ال + ذين",
+          "frequency": "Very High - common relative pronoun"
+        },
+        {
+          "arabic": "يُؤْمِنُونَ",
+          "transliteration": "yu'minoon",
+          "root": "أ م ن",
+          "meaning": "they believe",
+          "contextualMeaning": "they believe and have faith",
+          "position": 2,
+          "relatedWords": ["إيمان", "مؤمن", "أمان"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person plural",
+          "morphology": "ي + أمن + ون",
+          "frequency": "Very High - core concept of faith"
+        },
+        {
+          "arabic": "بِالْغَيْبِ",
+          "transliteration": "bil-ghayb",
+          "root": "غ ي ب",
+          "meaning": "in the unseen",
+          "contextualMeaning": "in the unseen, the hidden reality",
+          "position": 3,
+          "relatedWords": ["غيب", "غائب", "غيبة"],
+          "partOfSpeech": "preposition + noun",
+          "grammar": "genitive, definite",
+          "morphology": "ب + ال + غيب",
+          "frequency": "High - belief in the unseen"
+        },
+        {
+          "arabic": "وَيُقِيمُونَ",
+          "transliteration": "wa yuqeemoon",
+          "root": "ق و م",
+          "meaning": "and they establish",
+          "contextualMeaning": "and they establish and perform",
+          "position": 4,
+          "relatedWords": ["إقامة", "قائم", "قيام"],
+          "partOfSpeech": "conjunction + verb",
+          "grammar": "present tense, third person plural",
+          "morphology": "و + ي + قيم + ون",
+          "frequency": "High - establishing prayer"
+        },
+        {
+          "arabic": "الصَّلَاةَ",
+          "transliteration": "as-salata",
+          "root": "ص ل و",
+          "meaning": "the prayer",
+          "contextualMeaning": "the prayer, worship",
+          "position": 5,
+          "relatedWords": ["صلاة", "مصلي", "صلوات"],
+          "partOfSpeech": "noun",
+          "grammar": "accusative, definite",
+          "morphology": "ال + صلاة",
+          "frequency": "Very High - core Islamic practice"
+        },
+        {
+          "arabic": "وَمِمَّا",
+          "transliteration": "wa mimma",
+          "root": "م ن م ا",
+          "meaning": "and from what",
+          "contextualMeaning": "and from what (we have given them)",
+          "position": 6,
+          "relatedWords": ["من", "ما", "مما"],
+          "partOfSpeech": "conjunction + preposition + relative pronoun",
+          "grammar": "genitive",
+          "morphology": "و + من + ما",
+          "frequency": "High - common phrase"
+        },
+        {
+          "arabic": "رَزَقْنَاهُمْ",
+          "transliteration": "razaqnahum",
+          "root": "ر ز ق",
+          "meaning": "we have provided them",
+          "contextualMeaning": "we have provided them with sustenance",
+          "position": 7,
+          "relatedWords": ["رزق", "رزاق", "مرزوق"],
+          "partOfSpeech": "verb",
+          "grammar": "past tense, first person plural, third person plural object",
+          "morphology": "رزق + نا + هم",
+          "frequency": "High - divine provision"
+        },
+        {
+          "arabic": "يُنفِقُونَ",
+          "transliteration": "yunfiqoon",
+          "root": "ن ف ق",
+          "meaning": "they spend",
+          "contextualMeaning": "they spend and give in charity",
+          "position": 8,
+          "relatedWords": ["إنفاق", "منفق", "نفقة"],
+          "partOfSpeech": "verb",
+          "grammar": "present tense, third person plural",
+          "morphology": "ي + نفق + ون",
+          "frequency": "High - spending in charity"
+        }
+      ],
+      "translations": [
+        {
+          "translator": "Sahih International",
+          "language": "English",
+          "text": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them.",
+          "source": "Sahih International Translation"
+        },
+        {
+          "translator": "Yusuf Ali",
+          "language": "English",
+          "text": "Who believe in the Unseen, are steadfast in prayer, and spend out of what We have provided for them.",
+          "source": "The Holy Quran: Text, Translation and Commentary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "calculationMethods": [
+    {
+      "id": "MWL",
+      "name": "Muslim World League",
+      "description": "Standard method used by most Islamic organizations worldwide",
+      "parameters": {
+        "fajr": 18,
+        "isha": 17
+      },
+      "regions": ["Europe", "Asia", "Africa", "Americas"],
+      "reliability": "high"
+    },
+    {
+      "id": "ISNA",
+      "name": "Islamic Society of North America",
+      "description": "Method commonly used in North America",
+      "parameters": {
+        "fajr": 15,
+        "isha": 15
+      },
+      "regions": ["North America"],
+      "reliability": "high"
+    },
+    {
+      "id": "Egypt",
+      "name": "Egyptian General Authority of Survey",
+      "description": "Traditional method used in Egypt",
+      "parameters": {
+        "fajr": 19.5,
+        "isha": 17.5
+      },
+      "regions": ["Egypt", "Middle East"],
+      "reliability": "high"
+    },
+    {
+      "id": "Makkah",
+      "name": "Umm al-Qura University, Makkah",
+      "description": "Method used in Makkah, Saudi Arabia",
+      "parameters": {
+        "fajr": 18.5,
+        "isha": 90
+      },
+      "regions": ["Saudi Arabia", "Gulf States"],
+      "reliability": "high"
+    },
+    {
+      "id": "Karachi",
+      "name": "University of Islamic Sciences, Karachi",
+      "description": "Method used in Pakistan and South Asia",
+      "parameters": {
+        "fajr": 18,
+        "isha": 18
+      },
+      "regions": ["Pakistan", "India", "Bangladesh"],
+      "reliability": "high"
+    },
+    {
+      "id": "Tehran",
+      "name": "Institute of Geophysics, University of Tehran",
+      "description": "Method used in Iran",
+      "parameters": {
+        "fajr": 17.7,
+        "isha": 14,
+        "maghrib": 4.5,
+        "midnight": "Jafari"
+      },
+      "regions": ["Iran"],
+      "reliability": "high"
+    },
+    {
+      "id": "Jafari",
+      "name": "Shia Ithna-Ansari",
+      "description": "Method used by Shia Muslims",
+      "parameters": {
+        "fajr": 16,
+        "isha": 14,
+        "maghrib": 4,
+        "midnight": "Jafari"
+      },
+      "regions": ["Shia communities worldwide"],
+      "reliability": "high"
+    }
+  ],
+  "prayerTimes": {
+    "fajr": {
+      "name": "Fajr",
+      "arabicName": "الفجر",
+      "description": "Dawn prayer - performed before sunrise",
+      "timeType": "before_sunrise",
+      "significance": "First prayer of the day",
+      "recommendedActs": ["Quran recitation", "Supplications", "Remembrance of Allah"]
+    },
+    "sunrise": {
+      "name": "Sunrise",
+      "arabicName": "الشروق",
+      "description": "Time when the sun rises above the horizon",
+      "timeType": "sunrise",
+      "significance": "End of Fajr prayer time",
+      "recommendedActs": ["Morning remembrance", "Gratitude for a new day"]
+    },
+    "dhuhr": {
+      "name": "Dhuhr",
+      "arabicName": "الظهر",
+      "description": "Midday prayer - performed when the sun passes its zenith",
+      "timeType": "after_zenith",
+      "significance": "Second prayer of the day",
+      "recommendedActs": ["Work break", "Reflection", "Supplications"]
+    },
+    "asr": {
+      "name": "Asr",
+      "arabicName": "العصر",
+      "description": "Afternoon prayer - performed in the late afternoon",
+      "timeType": "afternoon",
+      "significance": "Third prayer of the day",
+      "recommendedActs": ["Reflection on the day", "Seeking forgiveness", "Supplications"]
+    },
+    "maghrib": {
+      "name": "Maghrib",
+      "arabicName": "المغرب",
+      "description": "Sunset prayer - performed immediately after sunset",
+      "timeType": "after_sunset",
+      "significance": "Fourth prayer of the day",
+      "recommendedActs": ["Breaking fast (in Ramadan)", "Evening remembrance", "Family time"]
+    },
+    "isha": {
+      "name": "Isha",
+      "arabicName": "العشاء",
+      "description": "Night prayer - performed after twilight disappears",
+      "timeType": "after_twilight",
+      "significance": "Fifth and final prayer of the day",
+      "recommendedActs": ["Night prayers", "Quran recitation", "Reflection", "Preparation for sleep"]
+    }
+  },
+  "specialTimes": {
+    "midnight": {
+      "name": "Midnight",
+      "arabicName": "منتصف الليل",
+      "description": "Middle of the night - halfway between sunset and sunrise",
+      "significance": "Time for night prayers and reflection",
+      "recommendedActs": ["Tahajjud prayer", "Quran recitation", "Supplications", "Reflection"]
+    },
+    "lastThird": {
+      "name": "Last Third of Night",
+      "arabicName": "الثلث الأخير من الليل",
+      "description": "The last third of the night before Fajr",
+      "significance": "Special time when Allah descends to the lowest heaven",
+      "recommendedActs": ["Tahajjud prayer", "Seeking forgiveness", "Supplications", "Quran recitation"]
+    }
+  },
+  "qiblaDirections": {
+    "makkah": {
+      "latitude": 21.4225,
+      "longitude": 39.8262,
+      "description": "The Kaaba in Makkah, Saudi Arabia"
+    }
+  },
+  "samplePrayerTimes": {
+    "location": "New York, NY, USA",
+    "date": "2024-01-15",
+    "method": "ISNA",
+    "times": {
+      "fajr": "06:15",
+      "sunrise": "07:25",
+      "dhuhr": "12:10",
+      "asr": "14:45",
+      "maghrib": "17:00",
+      "isha": "18:30"
+    },
+    "qiblaDirection": 58.5
+  }
+}
